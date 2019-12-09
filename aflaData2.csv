@@ -1,0 +1,721 @@
+,Rain,Drought,Country,Continent
+Abia,10.0,4.0,Nigeria,Africa
+Abidjan,8.0,4.0,Côte d'Ivoire,Africa
+Adamaoua,11.0,0.0,Cameroon,Africa
+Adamawa,5.0,2.0,Nigeria,Africa
+Afar 1,7.0,0.0,Ethiopia,Africa
+Afar 3,14.0,8.0,Ethiopia,Africa
+Ain-Defla,11.0,8.0,Algeria,Africa
+Ain-Temouchent,11.0,4.0,Algeria,Africa
+Akwa Ibom,13.0,8.0,Nigeria,Africa
+Al Aziziyah,12.0,8.0,Libya,Africa
+Al Fatah,7.0,5.0,Libya,Africa
+Al Jabal A.K.,8.0,9.0,Libya,Africa
+Al Jazeera,2.0,5.0,Sudan,Africa
+Al Khoms,6.0,9.0,Libya,Africa
+Alaba,6.0,4.0,Ethiopia,Africa
+Alaotra Mangoro,45.0,2.0,Madagascar,Africa
+Alger,12.0,14.0,Algeria,Africa
+Alibori,6.0,2.0,Benin,Africa
+Amoron I Mania,17.0,0.0,Madagascar,Africa
+Analamanga,9.0,0.0,Madagascar,Africa
+Analanjirofo,42.0,0.0,Madagascar,Africa
+Anambra,5.0,2.0,Nigeria,Africa
+Androy,20.0,21.0,Madagascar,Africa
+Annaba,3.0,9.0,Algeria,Africa
+Anosy,28.0,8.0,Madagascar,Africa
+Anseba,11.0,2.0,Eritrea,Africa
+Ariana,4.0,9.0,Tunisia,Africa
+Arsi,14.0,4.0,Ethiopia,Africa
+Arusha,6.0,8.0,Tanzania,Africa
+Ashanti,9.0,0.0,Ghana,Africa
+Asosa,5.0,0.0,Ethiopia,Africa
+Atakora,9.0,3.0,Benin,Africa
+Atsimo A.,27.0,0.0,Madagascar,Africa
+Atsimo Andrefana,3.0,12.0,Madagascar,Africa
+Awi Agew,10.0,0.0,Ethiopia,Africa
+Az Zawia,9.0,12.0,Libya,Africa
+Bafata,3.0,0.0,Guinea-Bissau,Africa
+Bale,20.0,2.0,Ethiopia,Africa
+Bandama,8.0,2.0,Côte d'Ivoire,Africa
+Banghazi,4.0,4.0,Libya,Africa
+Baringo,22.0,7.0,Kenya,Africa
+Bas Sassandra,13.0,0.0,Côte d'Ivoire,Africa
+Bas-Uele,1.0,0.0,D.R. Congo,Africa
+Basketo,6.0,0.0,Ethiopia,Africa
+Basse-Kotto,4.0,0.0,Central Africa,Africa
+Batha,4.0,8.0,Chad,Africa
+Batna,9.0,5.0,Algeria,Africa
+Bauchi,8.0,0.0,Nigeria,Africa
+Bay,8.0,9.0,Somalia,Africa
+Beja,6.0,12.0,Tunisia,Africa
+Bejaia,11.0,6.0,Algeria,Africa
+Ben Arous,7.0,6.0,Tunisia,Africa
+Bench Maji,11.0,0.0,Ethiopia,Africa
+Bengo,7.0,7.0,Angola,Africa
+Benguela,5.0,3.0,Angola,Africa
+Benue,3.0,0.0,Nigeria,Africa
+Betsiboka,2.0,4.0,Madagascar,Africa
+Bie,8.0,0.0,Angola,Africa
+Biskra,16.0,0.0,Algeria,Africa
+Bizerte,3.0,9.0,Tunisia,Africa
+Blida,15.0,2.0,Algeria,Africa
+Blue Nile,5.0,4.0,Sudan,Africa
+Boke,3.0,0.0,Guinea,Africa
+Bomet,9.0,3.0,Kenya,Africa
+Bomi,9.0,3.0,Liberia,Africa
+Bong,10.0,1.0,Liberia,Africa
+Bongolava,4.0,0.0,Madagascar,Africa
+Bordj Bou Arrer,7.0,3.0,Algeria,Africa
+Borena,17.0,16.0,Ethiopia,Africa
+Borgou,7.0,2.0,Benin,Africa
+Borno,10.0,5.0,Nigeria,Africa
+Boucle Mouhoun,14.0,2.0,Burkina Faso,Africa
+Bouenza,2.0,3.0,Congo,Africa
+Bouira,11.0,8.0,Algeria,Africa
+Boumerdes,16.0,3.0,Algeria,Africa
+Brong Ahafo,11.0,0.0,Ghana,Africa
+Bungoma,17.0,0.0,Kenya,Africa
+Burundi East,12.0,0.0,Burundi,Africa
+Burundi West,5.0,0.0,Burundi,Africa
+Busia,17.0,0.0,Kenya,Africa
+C. Equatoria,7.0,0.0,South Sudan,Africa
+Cabo Delgado,2.0,0.0,Mozambique,Africa
+Cascades,5.0,0.0,Burkina Faso,Africa
+Central,105.0,33.0,Botswana,Africa
+Central Region,9.0,3.0,Malawi,Africa
+Centrale,12.0,0.0,Togo,Africa
+Centre-est,8.0,3.0,Burkina Faso,Africa
+Centre-nord,9.0,6.0,Burkina Faso,Africa
+Centre-ouest,9.0,2.0,Burkina Faso,Africa
+Centre-sud,6.0,2.0,Burkina Faso,Africa
+Chaouia,3.0,8.0,Morocco,Africa
+Chari-Baguirmi,7.0,3.0,Chad,Africa
+Chlef,15.0,6.0,Algeria,Africa
+Chobe,3.0,6.0,Botswana,Africa
+Collines,10.0,0.0,Benin,Africa
+Comoe,10.0,4.0,Côte d'Ivoire,Africa
+Constantine,4.0,10.0,Algeria,Africa
+Copperbelt,9.0,0.0,Zambia,Africa
+Couffo,9.0,1.0,Benin,Africa
+Cross River,9.0,1.0,Nigeria,Africa
+Cuando Cubango,7.0,0.0,Angola,Africa
+Cuanza Sul,5.0,4.0,Angola,Africa
+Cunene,10.0,9.0,Angola,Africa
+Dakar,4.0,11.0,Senegal,Africa
+Darnah,7.0,6.0,Libya,Africa
+Dawro,11.0,0.0,Ethiopia,Africa
+Debub,7.0,4.0,Eritrea,Africa
+Delta,4.0,2.0,Nigeria,Africa
+Denguele,3.0,0.0,Côte d'Ivoire,Africa
+Diana,7.0,0.0,Madagascar,Africa
+Diffa,7.0,3.0,Niger,Africa
+Diourbel,2.0,7.0,Senegal,Africa
+Dire Dawa,11.0,6.0,Ethiopia,Africa
+Djelfa,13.0,3.0,Algeria,Africa
+Dodoma,12.0,10.0,Tanzania,Africa
+Donga,9.0,0.0,Benin,Africa
+Dosso,4.0,1.0,Niger,Africa
+Doukkala - Abda,7.0,9.0,Morocco,Africa
+East Gojam,7.0,1.0,Ethiopia,Africa
+East Harerge,12.0,3.0,Ethiopia,Africa
+East Shewa,7.0,2.0,Ethiopia,Africa
+East Wellega,9.0,0.0,Ethiopia,Africa
+Eastern,103.0,10.0,Ghana,Africa
+Eastern Cape,16.0,10.0,South Africa,Africa
+Ebonyi,5.0,1.0,Nigeria,Africa
+Edo,3.0,2.0,Nigeria,Africa
+Ekiti,7.0,0.0,Nigeria,Africa
+El Buheyrat,8.0,0.0,South Sudan,Africa
+El Oued,4.0,1.0,Algeria,Africa
+El-Tarf,7.0,4.0,Algeria,Africa
+Embu,10.0,7.0,Kenya,Africa
+Enugu,6.0,7.0,Nigeria,Africa
+Est,3.0,8.0,Cameroon,Africa
+Estuaire,7.0,1.0,Gabon,Africa
+Extrême - Nord,9.0,1.0,Cameroon,Africa
+FCT - Abuja,3.0,0.0,Nigeria,Africa
+Fafan,23.0,8.0,Ethiopia,Africa
+Faranah,7.0,0.0,Guinea,Africa
+Fatick,1.0,8.0,Senegal,Africa
+Free State,8.0,12.0,South Africa,Africa
+Fès - Boulemane,12.0,4.0,Morocco,Africa
+Gabes,10.0,3.0,Tunisia,Africa
+Gabu,1.0,0.0,Guinea-Bissau,Africa
+Gadaref,3.0,7.0,Sudan,Africa
+Gafsa,8.0,4.0,Tunisia,Africa
+Gambia,6.0,2.0,Gambia,Africa
+Gamo Gofa,20.0,0.0,Ethiopia,Africa
+Gash Barka,12.0,4.0,Eritrea,Africa
+Gauteng,8.0,13.0,South Africa,Africa
+Gaza,11.0,8.0,Mozambique,Africa
+Gedo,14.0,11.0,Somalia,Africa
+Geita,7.0,0.0,Tanzania,Africa
+Gharb,10.0,12.0,Morocco,Africa
+Gombe,10.0,2.0,Nigeria,Africa
+Gorgol,2.0,8.0,Mauritania,Africa
+Grand Bassa,13.0,2.0,Liberia,Africa
+Grand Cape Mount,6.0,4.0,Liberia,Africa
+Grand Casablanca,4.0,8.0,Morocco,Africa
+Grand Kru,4.0,0.0,Liberia,Africa
+Greater Accra,11.0,9.0,Ghana,Africa
+Guelma,9.0,6.0,Algeria,Africa
+Guera,6.0,4.0,Chad,Africa
+Guidimakha,7.0,8.0,Mauritania,Africa
+Guji,20.0,3.0,Ethiopia,Africa
+Gurage,9.0,1.0,Ethiopia,Africa
+Gôh-Djiboua,6.0,1.0,Côte d'Ivoire,Africa
+Hadiya,6.0,0.0,Ethiopia,Africa
+Hadjer-Lamis,7.0,5.0,Chad,Africa
+Hareri,14.0,3.0,Ethiopia,Africa
+Haut-Katanga,7.0,0.0,D.R. Congo,Africa
+Haut-Lomami,10.0,0.0,D.R. Congo,Africa
+Haut-Uele,3.0,0.0,D.R. Congo,Africa
+Haute Matsiatra,27.0,0.0,Madagascar,Africa
+Hauts-bassins,10.0,2.0,Burkina Faso,Africa
+Hiraan,6.0,8.0,Somalia,Africa
+Hodh Ech Chargi,8.0,4.0,Mauritania,Africa
+Hodh El Gharbi,11.0,3.0,Mauritania,Africa
+Homa Bay,15.0,4.0,Kenya,Africa
+Horo Guduru,7.0,0.0,Ethiopia,Africa
+Huambo,10.0,0.0,Angola,Africa
+Huila,20.0,5.0,Angola,Africa
+Ihorombe,17.0,3.0,Madagascar,Africa
+Ilubabor,12.0,0.0,Ethiopia,Africa
+Imo,11.0,6.0,Nigeria,Africa
+Inhambane,8.0,0.0,Mozambique,Africa
+Iringa,7.0,3.0,Tanzania,Africa
+Itasy,10.0,0.0,Madagascar,Africa
+Ituri,5.0,0.0,D.R. Congo,Africa
+Jendouba,5.0,3.0,Tunisia,Africa
+Jigawa,3.0,4.0,Nigeria,Africa
+Jijel,5.0,0.0,Algeria,Africa
+Jimma,8.0,0.0,Ethiopia,Africa
+Jonglei,4.0,8.0,South Sudan,Africa
+Juba Dhexe,22.0,13.0,Somalia,Africa
+Juba Hoose,23.0,14.0,Somalia,Africa
+KT,8.0,0.0,Ethiopia,Africa
+Kaduna,10.0,1.0,Nigeria,Africa
+Kaffrine,5.0,11.0,Senegal,Africa
+Kagera,18.0,2.0,Tanzania,Africa
+Kairouan,11.0,4.0,Tunisia,Africa
+Kajiado,5.0,10.0,Kenya,Africa
+Kakamega,25.0,0.0,Kenya,Africa
+Kankan,5.0,0.0,Guinea,Africa
+Kano,4.0,5.0,Nigeria,Africa
+Kaolack,5.0,6.0,Senegal,Africa
+Kara,5.0,1.0,Togo,Africa
+Karamoja,30.0,11.0,Uganda,Africa
+Kasai-Central,12.0,0.0,D.R. Congo,Africa
+Kasai-Oriental,9.0,0.0,D.R. Congo,Africa
+Kassala,3.0,0.0,Sudan,Africa
+Kasserine,6.0,3.0,Tunisia,Africa
+Katavi,10.0,0.0,Tanzania,Africa
+Katsina,6.0,2.0,Nigeria,Africa
+Kavango East,5.0,7.0,Namibia,Africa
+Kavango West,6.0,10.0,Namibia,Africa
+Kayes,10.0,3.0,Mali,Africa
+Kebbi,8.0,2.0,Nigeria,Africa
+Kebili,15.0,0.0,Tunisia,Africa
+Kedougou,3.0,0.0,Senegal,Africa
+Keffa,11.0,0.0,Ethiopia,Africa
+Keiyo-Marakwet,11.0,0.0,Kenya,Africa
+Kelem Wellega,11.0,0.0,Ethiopia,Africa
+Kemashi,9.0,1.0,Ethiopia,Africa
+Kericho,9.0,0.0,Kenya,Africa
+Kgatleng,5.0,39.0,Botswana,Africa
+Khartoum,1.0,0.0,Sudan,Africa
+Khenchela,5.0,3.0,Algeria,Africa
+Kiambu,25.0,2.0,Kenya,Africa
+Kigoma,7.0,0.0,Tanzania,Africa
+Kilifi,9.0,9.0,Kenya,Africa
+Kilimanjaro,16.0,8.0,Tanzania,Africa
+Kindia,7.0,0.0,Guinea,Africa
+Kinshasa,8.0,0.0,D.R. Congo,Africa
+Kirinyaga,13.0,1.0,Kenya,Africa
+Kisii,11.0,0.0,Kenya,Africa
+Kisumu,17.0,9.0,Kenya,Africa
+Kitui,11.0,7.0,Kenya,Africa
+Kogi,2.0,0.0,Nigeria,Africa
+Kolda,4.0,0.0,Senegal,Africa
+Kongo-Central,4.0,0.0,D.R. Congo,Africa
+Konta,7.0,0.0,Ethiopia,Africa
+Kouilou,2.0,6.0,Congo,Africa
+Koulikoro,7.0,0.0,Mali,Africa
+KwaZulu-Natal,15.0,5.0,South Africa,Africa
+Kwale,12.0,10.0,Kenya,Africa
+Kwango,9.0,0.0,D.R. Congo,Africa
+Kwara,12.0,0.0,Nigeria,Africa
+Kweneng,9.0,17.0,Botswana,Africa
+Kwilu,9.0,0.0,D.R. Congo,Africa
+Kémo,4.0,0.0,Central Africa,Africa
+Labe,6.0,0.0,Guinea,Africa
+Lac,5.0,1.0,Chad,Africa
+Lacs,7.0,6.0,Côte d'Ivoire,Africa
+Laghouat,10.0,4.0,Algeria,Africa
+Lagunes,8.0,4.0,Côte d'Ivoire,Africa
+Laikipia,18.0,14.0,Kenya,Africa
+Lake Albert,13.0,1.0,Uganda,Africa
+Lake Victoria,15.0,0.0,Uganda,Africa
+Lamu,10.0,7.0,Kenya,Africa
+Le Kef,5.0,8.0,Tunisia,Africa
+Lesotho,9.0,6.0,Lesotho,Africa
+Limpopo,6.0,34.0,South Africa,Africa
+Lindi,4.0,2.0,Tanzania,Africa
+Littoral,6.0,5.0,Cameroon,Africa
+Lofa,12.0,0.0,Liberia,Africa
+Logone Occid.,6.0,0.0,Chad,Africa
+Logone Oriental,6.0,1.0,Chad,Africa
+Lomami,12.0,0.0,D.R. Congo,Africa
+Louga,3.0,9.0,Senegal,Africa
+Lualaba,4.0,0.0,D.R. Congo,Africa
+Luanda,6.0,9.0,Angola,Africa
+Luapula,5.0,0.0,Zambia,Africa
+Lusaka,7.0,2.0,Zambia,Africa
+M'Sila,9.0,6.0,Algeria,Africa
+Machakos,7.0,7.0,Kenya,Africa
+Maekel,10.0,4.0,Eritrea,Africa
+Mahdia,17.0,7.0,Tunisia,Africa
+Majang,8.0,0.0,Ethiopia,Africa
+Makueni,7.0,6.0,Kenya,Africa
+Malanje,5.0,0.0,Angola,Africa
+Malindi,17.0,10.0,Kenya,Africa
+Mambéré-Kadéï,10.0,0.0,Central Africa,Africa
+Mamou,5.0,0.0,Guinea,Africa
+Mandoul,4.0,0.0,Chad,Africa
+Manica,8.0,3.0,Mozambique,Africa
+Manicaland,7.0,7.0,Zimbabwe,Africa
+Maniema,15.0,0.0,D.R. Congo,Africa
+Manouba,5.0,6.0,Tunisia,Africa
+Manyara,5.0,15.0,Tanzania,Africa
+Maputo,11.0,16.0,Mozambique,Africa
+Mara,21.0,6.0,Tanzania,Africa
+Maradi,4.0,5.0,Niger,Africa
+Margibi,14.0,4.0,Liberia,Africa
+Maritime,11.0,0.0,Togo,Africa
+Marrakech,10.0,6.0,Morocco,Africa
+Maryland,19.0,3.0,Liberia,Africa
+Mascara,9.0,7.0,Algeria,Africa
+Mashonaland C.,6.0,1.0,Zimbabwe,Africa
+Mashonaland East,9.0,2.0,Zimbabwe,Africa
+Mashonaland West,5.0,3.0,Zimbabwe,Africa
+Masvingo,6.0,9.0,Zimbabwe,Africa
+Matabeleland N.,8.0,10.0,Zimbabwe,Africa
+Matabeleland S.,4.0,22.0,Zimbabwe,Africa
+Matam,4.0,8.0,Senegal,Africa
+Mayo-Kebbi Est,4.0,1.0,Chad,Africa
+Mayo-Kebbi Ouest,4.0,2.0,Chad,Africa
+Mbeya,10.0,1.0,Tanzania,Africa
+Medea,13.0,9.0,Algeria,Africa
+Medenine,9.0,4.0,Tunisia,Africa
+Meknès,14.0,4.0,Morocco,Africa
+Menabe,4.0,3.0,Madagascar,Africa
+Meru,15.0,10.0,Kenya,Africa
+Metekel,6.0,0.0,Ethiopia,Africa
+Mid Northen,5.0,1.0,Uganda,Africa
+Midlands,7.0,13.0,Zimbabwe,Africa
+Migori,12.0,0.0,Kenya,Africa
+Mila,5.0,8.0,Algeria,Africa
+Misurata,11.0,18.0,Libya,Africa
+Monastir,20.0,9.0,Tunisia,Africa
+Mongala,5.0,0.0,D.R. Congo,Africa
+Montagnes,11.0,0.0,Côte d'Ivoire,Africa
+Montserrado,12.0,4.0,Liberia,Africa
+Mopti,5.0,1.0,Mali,Africa
+Morogoro,3.0,8.0,Tanzania,Africa
+Mostaganem,9.0,9.0,Algeria,Africa
+Moyen-Chari,3.0,0.0,Chad,Africa
+Mpumalanga,16.0,13.0,South Africa,Africa
+Mtwara,3.0,3.0,Tanzania,Africa
+Muranga,13.0,0.0,Kenya,Africa
+Mwanza,8.0,1.0,Tanzania,Africa
+Nabeul,10.0,4.0,Tunisia,Africa
+Nairobi,14.0,9.0,Kenya,Africa
+Nakuru,12.0,6.0,Kenya,Africa
+Namibe,9.0,6.0,Angola,Africa
+Nampula,12.0,0.0,Mozambique,Africa
+Nandi,9.0,0.0,Kenya,Africa
+Narok,9.0,5.0,Kenya,Africa
+Nassarawa,9.0,0.0,Nigeria,Africa
+Niassa,8.0,1.0,Mozambique,Africa
+Niger,8.0,3.0,Nigeria,Africa
+Nimba,13.0,2.0,Liberia,Africa
+Njombe,6.0,0.0,Tanzania,Africa
+Nord,23.0,7.0,Cameroon,Africa
+Nord - Ouest,9.0,0.0,Cameroon,Africa
+North Bahr Ghaza,7.0,4.0,South Sudan,Africa
+North East,11.0,11.0,Botswana,Africa
+North Gonder,7.0,0.0,Ethiopia,Africa
+North Kivu,17.0,0.0,D.R. Congo,Africa
+North Kordofa,5.0,6.0,Sudan,Africa
+North Shewa R3,16.0,0.0,Ethiopia,Africa
+North Shewa R4,7.0,1.0,Ethiopia,Africa
+North Sinai,4.0,3.0,Egypt,Africa
+North Ubangi,3.0,0.0,D.R. Congo,Africa
+North Western,13.0,0.0,Ethiopia,Africa
+North Wollo,19.0,1.0,Ethiopia,Africa
+North-West,7.0,0.0,Zambia,Africa
+Northern,57.0,3.0,Sudan,Africa
+Northern Cape,8.0,4.0,South Africa,Africa
+Northern Darfur,3.0,8.0,Sudan,Africa
+Northern Region,10.0,0.0,Malawi,Africa
+Nuqat Al Khams,8.0,5.0,Libya,Africa
+Nyamira,19.0,2.0,Kenya,Africa
+Nyandarua,12.0,4.0,Kenya,Africa
+Nyanga,6.0,6.0,Gabon,Africa
+Nyeri,19.0,5.0,Kenya,Africa
+Nzerekore,9.0,0.0,Guinea,Africa
+Ohangwena,6.0,5.0,Namibia,Africa
+Omusati,10.0,3.0,Namibia,Africa
+Ondo,6.0,0.0,Nigeria,Africa
+Oran,9.0,7.0,Algeria,Africa
+Oriental,14.0,10.0,Morocco,Africa
+Oromia,14.0,3.0,Ethiopia,Africa
+Oshana,6.0,6.0,Namibia,Africa
+Oshikoto,6.0,12.0,Namibia,Africa
+Osun,5.0,2.0,Nigeria,Africa
+Ouaddai,5.0,6.0,Chad,Africa
+Ouaka,9.0,0.0,Central Africa,Africa
+Ouest,23.0,0.0,Cameroon,Africa
+Ouham,7.0,0.0,Central Africa,Africa
+Ouham Pendé,6.0,0.0,Central Africa,Africa
+Oum El Bouaghi,4.0,6.0,Algeria,Africa
+Oyo,9.0,4.0,Nigeria,Africa
+Plateau,22.0,1.0,Benin,Africa
+Plateau Central,8.0,3.0,Burkina Faso,Africa
+Plateaux,12.0,0.0,Congo,Africa
+Pool,14.0,0.0,Congo,Africa
+Port Said,1.0,16.0,Egypt,Africa
+Pwani,11.0,0.0,Tanzania,Africa
+Rabat,6.0,6.0,Morocco,Africa
+Region 14,6.0,12.0,Ethiopia,Africa
+Relizane,13.0,8.0,Algeria,Africa
+Rivers,17.0,5.0,Nigeria,Africa
+Rukwa,8.0,0.0,Tanzania,Africa
+Ruvuma,3.0,0.0,Tanzania,Africa
+Rwanda East,14.0,1.0,Rwanda,Africa
+Rwanda West,13.0,0.0,Rwanda,Africa
+Sahel,4.0,4.0,Burkina Faso,Africa
+Saida,8.0,8.0,Algeria,Africa
+Saint louis,1.0,4.0,Senegal,Africa
+Salamat,11.0,3.0,Chad,Africa
+Sassandra,11.0,2.0,Côte d'Ivoire,Africa
+Sava,21.0,0.0,Madagascar,Africa
+Savanes,17.0,1.0,Côte d'Ivoire,Africa
+Segen Peoples,18.0,9.0,Ethiopia,Africa
+Segou,8.0,2.0,Mali,Africa
+Selti,9.0,3.0,Ethiopia,Africa
+Semenawi K.B.,3.0,0.0,Eritrea,Africa
+Sennar,4.0,9.0,Sudan,Africa
+Setif,5.0,10.0,Algeria,Africa
+Sfax,22.0,0.0,Tunisia,Africa
+Shabelle Dhexe,5.0,7.0,Somalia,Africa
+Shabelle Hoose,12.0,5.0,Somalia,Africa
+Sheka,5.0,0.0,Ethiopia,Africa
+Shinyanga,8.0,6.0,Tanzania,Africa
+Siaya,12.0,3.0,Kenya,Africa
+Sidama,11.0,7.0,Ethiopia,Africa
+Sidi Bel Abbes,12.0,5.0,Algeria,Africa
+Sidi Bouz,8.0,3.0,Tunisia,Africa
+Sikasso,11.0,0.0,Mali,Africa
+Sila,8.0,4.0,Chad,Africa
+Siliana,7.0,9.0,Tunisia,Africa
+Simiyu,16.0,5.0,Tanzania,Africa
+Singida,7.0,6.0,Tanzania,Africa
+Skikda,5.0,9.0,Algeria,Africa
+Sofala,6.0,4.0,Mozambique,Africa
+Sofia,11.0,0.0,Madagascar,Africa
+Sokoto,4.0,2.0,Nigeria,Africa
+Souk-Ahras,5.0,10.0,Algeria,Africa
+Souss,12.0,2.0,Morocco,Africa
+Sousse,14.0,5.0,Tunisia,Africa
+South Drylands,13.0,0.0,Uganda,Africa
+South Eastern,19.0,2.0,Uganda,Africa
+South Gonder,9.0,3.0,Ethiopia,Africa
+South Kivu,11.0,0.0,D.R. Congo,Africa
+South Kordofa,13.0,5.0,Sudan,Africa
+South Omo,19.0,1.0,Ethiopia,Africa
+South Ubangi,5.0,0.0,D.R. Congo,Africa
+South West Shewa,9.0,0.0,Ethiopia,Africa
+South Wollo,19.0,0.0,Ethiopia,Africa
+South-East,9.0,26.0,Botswana,Africa
+Southern Darfur,8.0,6.0,Sudan,Africa
+Southern Region,11.0,4.0,Malawi,Africa
+Sud,13.0,1.0,Cameroon,Africa
+Sud - Ouest,11.0,7.0,Cameroon,Africa
+Sud-ouest,8.0,0.0,Burkina Faso,Africa
+Suez,4.0,8.0,Egypt,Africa
+Tabora,9.0,6.0,Tanzania,Africa
+Tadla - Azilal,7.0,4.0,Morocco,Africa
+Tahoua,3.0,6.0,Niger,Africa
+Taita Taveta,12.0,6.0,Kenya,Africa
+Tambacounda,6.0,7.0,Senegal,Africa
+Tandjile,4.0,0.0,Chad,Africa
+Tanga,10.0,9.0,Tanzania,Africa
+Tanganyika,9.0,0.0,D.R. Congo,Africa
+Tanger - Tétouan,8.0,8.0,Morocco,Africa
+Taraba,8.0,0.0,Nigeria,Africa
+Tarhunah,6.0,9.0,Libya,Africa
+Taza,11.0,6.0,Morocco,Africa
+Tebessa,4.0,3.0,Algeria,Africa
+Tete,9.0,3.0,Mozambique,Africa
+Tharaka,5.0,9.0,Kenya,Africa
+Tiaret,11.0,7.0,Algeria,Africa
+Tillaberi,3.0,5.0,Niger,Africa
+Tipaza,11.0,4.0,Algeria,Africa
+Tissemsilt,11.0,8.0,Algeria,Africa
+Tizi Ouzou,12.0,9.0,Algeria,Africa
+Tlemcen,11.0,8.0,Algeria,Africa
+Trans Nzoia,36.0,0.0,Kenya,Africa
+Tripoli,11.0,8.0,Libya,Africa
+Tshopo,4.0,0.0,D.R. Congo,Africa
+Tubruq (tobruk),2.0,4.0,Libya,Africa
+Uasin Gishu,33.0,4.0,Kenya,Africa
+Unity,6.0,15.0,South Sudan,Africa
+Upper East,6.0,1.0,Ghana,Africa
+Upper Nile,4.0,10.0,South Sudan,Africa
+Upper West,7.0,1.0,Ghana,Africa
+Vakinankaratra,13.0,0.0,Madagascar,Africa
+Vatovavy F.,32.0,0.0,Madagascar,Africa
+Vihiga,13.0,0.0,Kenya,Africa
+Volta,14.0,1.0,Ghana,Africa
+Wadi Fira,3.0,6.0,Chad,Africa
+Wag Himra,9.0,3.0,Ethiopia,Africa
+Warab,9.0,0.0,South Sudan,Africa
+West Arsi,9.0,1.0,Ethiopia,Africa
+West Cape,9.0,9.0,South Africa,Africa
+West Darfur,7.0,4.0,Sudan,Africa
+West Equatoria,3.0,0.0,South Sudan,Africa
+West Gojam,9.0,2.0,Ethiopia,Africa
+West Harerge,13.0,8.0,Ethiopia,Africa
+West Nile,2.0,0.0,Uganda,Africa
+West Pokot,20.0,3.0,Kenya,Africa
+West Shewa,5.0,2.0,Ethiopia,Africa
+West Wellega,7.0,0.0,Ethiopia,Africa
+Western,24.0,4.0,Ethiopia,Africa
+White Nile,2.0,2.0,Sudan,Africa
+Wolayita,10.0,0.0,Ethiopia,Africa
+Woqooyi Galbeed,8.0,6.0,Somalia,Africa
+Woroba,7.0,0.0,Côte d'Ivoire,Africa
+Yafran (yefren),4.0,6.0,Libya,Africa
+Yem,6.0,1.0,Ethiopia,Africa
+Yobe,9.0,4.0,Nigeria,Africa
+Zaghouan,8.0,9.0,Tunisia,Africa
+Zambezi,10.0,19.0,Namibia,Africa
+Zambezia,10.0,0.0,Mozambique,Africa
+Zamfara,11.0,3.0,Nigeria,Africa
+Zanzan,12.0,0.0,Côte d'Ivoire,Africa
+Zeleitin,12.0,8.0,Libya,Africa
+Zinder,4.0,7.0,Niger,Africa
+Zou,9.0,2.0,Benin,Africa
+eSwatini,13.0,5.0,eSwatini,Africa
+Alexandria,0.0,3.0,Egypt,Africa
+Dakahlia,0.0,1.0,Egypt,Africa
+Ismailia,0.0,6.0,Egypt,Africa
+Sabha,0.0,8.0,Libya,Africa
+Sedhiou,0.0,1.0,Senegal,Africa
+Thies,0.0,9.0,Senegal,Africa
+Ziguinchor,0.0,4.0,Senegal,Africa
+Adrar,0.0,0.0,Algeria,Africa
+Afar 2,0.0,0.0,Ethiopia,Africa
+Afar 4,0.0,0.0,Ethiopia,Africa
+Afar 5,0.0,0.0,Ethiopia,Africa
+Afder,0.0,0.0,Ethiopia,Africa
+Agadez,0.0,0.0,Niger,Africa
+Agnuak,0.0,0.0,Ethiopia,Africa
+Ajdabiya,0.0,0.0,Libya,Africa
+Al Jufrah,0.0,0.0,Libya,Africa
+Al Kufrah,0.0,0.0,Libya,Africa
+Archipelagos,0.0,0.0,Eritrea,Africa
+Area under NA,0.0,0.0,Malawi,Africa
+Ash Shati,0.0,0.0,Libya,Africa
+Assaba,0.0,0.0,Mauritania,Africa
+Assiut,0.0,0.0,Egypt,Africa
+Aswan,0.0,0.0,Egypt,Africa
+Atlantique,0.0,0.0,Benin,Africa
+Atsinanana,0.0,0.0,Madagascar,Africa
+Awbari (ubari),0.0,0.0,Libya,Africa
+Awdal,0.0,0.0,Somalia,Africa
+Bakool,0.0,0.0,Somalia,Africa
+Bamako,0.0,0.0,Mali,Africa
+Bamingui,0.0,0.0,Central Africa,Africa
+Banadir,0.0,0.0,Somalia,Africa
+Barh-El-Gazal,0.0,0.0,Chad,Africa
+Bari,0.0,0.0,Somalia,Africa
+Bayelsa,0.0,0.0,Nigeria,Africa
+Bechar,0.0,0.0,Algeria,Africa
+Behera,0.0,0.0,Egypt,Africa
+Beni Suef,0.0,0.0,Egypt,Africa
+Bioko Norte,0.0,0.0,Equat. Guinea,Africa
+Bioko Sur,0.0,0.0,Equat. Guinea,Africa
+Biombo,0.0,0.0,Guinea-Bissau,Africa
+Boeny,0.0,0.0,Madagascar,Africa
+Borkou,0.0,0.0,Chad,Africa
+Brakna,0.0,0.0,Mauritania,Africa
+Bulawayo,0.0,0.0,Zimbabwe,Africa
+Cabinda,0.0,0.0,Angola,Africa
+Cacheu,0.0,0.0,Guinea-Bissau,Africa
+Cairo,0.0,0.0,Egypt,Africa
+Cape Verde,0.0,0.0,Cape Verde,Africa
+Cayenne,0.0,0.0,French Guiana,Africa
+Centro Sur,0.0,0.0,Equat. Guinea,Africa
+Comoros,0.0,0.0,Comoros,Africa
+Conakry,0.0,0.0,Guinea,Africa
+Cuvette,0.0,0.0,Congo,Africa
+Cuvette Ovest,0.0,0.0,Congo,Africa
+Dakhlet N.,0.0,0.0,Mauritania,Africa
+Damietta,0.0,0.0,Egypt,Africa
+Dar es salaam,0.0,0.0,Tanzania,Africa
+Debubawi K.B.,0.0,0.0,Eritrea,Africa
+Djibouti,0.0,0.0,Djibouti,Africa
+Doolo,0.0,0.0,Ethiopia,Africa
+East Equatoria,0.0,0.0,South Sudan,Africa
+El Bayadh,0.0,0.0,Algeria,Africa
+Ennedi Est,0.0,0.0,Chad,Africa
+Ennedi Ouest,0.0,0.0,Chad,Africa
+Equateur,0.0,0.0,D.R. Congo,Africa
+Erongo,0.0,0.0,Namibia,Africa
+Fayoum,0.0,0.0,Egypt,Africa
+Galgaduud,0.0,0.0,Somalia,Africa
+Gao,0.0,0.0,Mali,Africa
+Garissa,0.0,0.0,Kenya,Africa
+Gbarpolu,0.0,0.0,Liberia,Africa
+Gedio,0.0,0.0,Ethiopia,Africa
+Ghadamis,0.0,0.0,Libya,Africa
+Ghanzi,0.0,0.0,Botswana,Africa
+Gharbia,0.0,0.0,Egypt,Africa
+Ghardaia,0.0,0.0,Algeria,Africa
+Gharyan,0.0,0.0,Libya,Africa
+Giza,0.0,0.0,Egypt,Africa
+Grand Gedeh,0.0,0.0,Liberia,Africa
+Guelmim,0.0,0.0,Morocco,Africa
+Harare,0.0,0.0,Zimbabwe,Africa
+Hardap,0.0,0.0,Namibia,Africa
+Haut-Mbomou,0.0,0.0,Central Africa,Africa
+Haut-Ogooue,0.0,0.0,Gabon,Africa
+Haute-Kotto,0.0,0.0,Central Africa,Africa
+Ilemi triangle,0.0,0.0,Ilemi triangle,Africa
+Illizi,0.0,0.0,Algeria,Africa
+Inchiri,0.0,0.0,Mauritania,Africa
+Isiolo,0.0,0.0,Kenya,Africa
+Jarar,0.0,0.0,Ethiopia,Africa
+Kafr El-Shikh,0.0,0.0,Egypt,Africa
+Kalyoubia,0.0,0.0,Egypt,Africa
+Kanem,0.0,0.0,Chad,Africa
+Karas,0.0,0.0,Namibia,Africa
+Kasai,0.0,0.0,D.R. Congo,Africa
+Kaskazini Pemba,0.0,0.0,Tanzania,Africa
+Kaskazini Unguja,0.0,0.0,Tanzania,Africa
+Kgalagadi,0.0,0.0,Botswana,Africa
+Khomas,0.0,0.0,Namibia,Africa
+Kidal,0.0,0.0,Mali,Africa
+Kientem,0.0,0.0,Equat. Guinea,Africa
+Korahe,0.0,0.0,Ethiopia,Africa
+Kuanza Norte,0.0,0.0,Angola,Africa
+Kunene,0.0,0.0,Namibia,Africa
+Kusini Pemba,0.0,0.0,Tanzania,Africa
+Kusini Unguja,0.0,0.0,Tanzania,Africa
+Lago niassa,0.0,0.0,Mozambique,Africa
+Lagos,0.0,0.0,Nigeria,Africa
+Laâyoune,0.0,0.0,Morocco,Africa
+Lekoumou,0.0,0.0,Congo,Africa
+Liben,0.0,0.0,Ethiopia,Africa
+Likouala,0.0,0.0,Congo,Africa
+Litoral,0.0,0.0,Equat. Guinea,Africa
+Lobaye,0.0,0.0,Central Africa,Africa
+Lunda Norte,0.0,0.0,Angola,Africa
+Lunda Sul,0.0,0.0,Angola,Africa
+Luxor,0.0,0.0,Egypt,Africa
+Ma'tan al-Sarra,0.0,0.0,Ma'tan al-Sarra,Africa
+Mai-Ndombe,0.0,0.0,D.R. Congo,Africa
+Mandera,0.0,0.0,Kenya,Africa
+Marsabit,0.0,0.0,Kenya,Africa
+Martinique,0.0,0.0,Martinique,Africa
+Matrouh,0.0,0.0,Egypt,Africa
+Mauritius,0.0,0.0,Mauritius,Africa
+Mayotte,0.0,0.0,Mayotte,Africa
+Mbomou,0.0,0.0,Central Africa,Africa
+Melaky,0.0,0.0,Madagascar,Africa
+Menia,0.0,0.0,Egypt,Africa
+Menoufia,0.0,0.0,Egypt,Africa
+Mjini Magharibi,0.0,0.0,Tanzania,Africa
+Mombasa,0.0,0.0,Kenya,Africa
+Mono,0.0,0.0,Benin,Africa
+Moxico,0.0,0.0,Angola,Africa
+Moyen-Ogooue,0.0,0.0,Gabon,Africa
+Mudug,0.0,0.0,Somalia,Africa
+Murzuq,0.0,0.0,Libya,Africa
+N'Djamena,0.0,0.0,Chad,Africa
+Naama,0.0,0.0,Algeria,Africa
+Nana-Gribizi,0.0,0.0,Central Africa,Africa
+Nana-Mambéré,0.0,0.0,Central Africa,Africa
+New Valley,0.0,0.0,Egypt,Africa
+Ngamiland,0.0,0.0,Botswana,Africa
+Ngounie,0.0,0.0,Gabon,Africa
+Niamey,0.0,0.0,Niger,Africa
+Niari,0.0,0.0,Congo,Africa
+Nile,0.0,0.0,Sudan,Africa
+No Name,0.0,0.0,Ethiopia,Africa
+Nogob,0.0,0.0,Ethiopia,Africa
+Nouakchott,0.0,0.0,Mauritania,Africa
+Nuer,0.0,0.0,Ethiopia,Africa
+Nugaal,0.0,0.0,Somalia,Africa
+Ogooue-Ivindo,0.0,0.0,Gabon,Africa
+Ogooue-Maritime,0.0,0.0,Gabon,Africa
+Ogooue-lolo,0.0,0.0,Gabon,Africa
+Ogun,0.0,0.0,Nigeria,Africa
+Oio,0.0,0.0,Guinea-Bissau,Africa
+Omaheke,0.0,0.0,Namibia,Africa
+Ombella M'Poko,0.0,0.0,Central Africa,Africa
+Otjozondjupa,0.0,0.0,Namibia,Africa
+Ouargla,0.0,0.0,Algeria,Africa
+Oueme,0.0,0.0,Benin,Africa
+Qena,0.0,0.0,Egypt,Africa
+Quinara,0.0,0.0,Guinea-Bissau,Africa
+Red Sea,0.0,0.0,Sudan,Africa
+Rio De Oro,0.0,0.0,Western Sahara,Africa
+River Gee,0.0,0.0,Liberia,Africa
+Rivercess,0.0,0.0,Liberia,Africa
+Réunion,0.0,0.0,Réunion,Africa
+Saguia El Hamra,0.0,0.0,Western Sahara,Africa
+Saint Laurent M.,0.0,0.0,French Guiana,Africa
+Samburu,0.0,0.0,Kenya,Africa
+Sanaag,0.0,0.0,Somalia,Africa
+Sangha,0.0,0.0,Congo,Africa
+Sangha-Mbaéré,0.0,0.0,Central Africa,Africa
+Sankuru,0.0,0.0,D.R. Congo,Africa
+Sao Tome and P.,0.0,0.0,Sao Tome and P.,Africa
+Sawfajjin,0.0,0.0,Libya,Africa
+Shabelle,0.0,0.0,Ethiopia,Africa
+Shrkia,0.0,0.0,Egypt,Africa
+Sinoe,0.0,0.0,Liberia,Africa
+Siti,0.0,0.0,Ethiopia,Africa
+Sool,0.0,0.0,Somalia,Africa
+South Sinai,0.0,0.0,Egypt,Africa
+Special Woreda,0.0,0.0,Ethiopia,Africa
+Suhag,0.0,0.0,Egypt,Africa
+Surt (sirte),0.0,0.0,Libya,Africa
+Tagant,0.0,0.0,Mauritania,Africa
+Tamanrasset,0.0,0.0,Algeria,Africa
+Tana River,0.0,0.0,Kenya,Africa
+Tataouine,0.0,0.0,Tunisia,Africa
+Tibesti,0.0,0.0,Chad,Africa
+Tindouf,0.0,0.0,Algeria,Africa
+Tiris-Zemmour,0.0,0.0,Mauritania,Africa
+Togdheer,0.0,0.0,Somalia,Africa
+Tombali,0.0,0.0,Guinea-Bissau,Africa
+Tombouctou,0.0,0.0,Mali,Africa
+Tozeur,0.0,0.0,Tunisia,Africa
+Trarza,0.0,0.0,Mauritania,Africa
+Tshuapa,0.0,0.0,D.R. Congo,Africa
+Tunis,0.0,0.0,Tunisia,Africa
+Turkana,0.0,0.0,Kenya,Africa
+Uige,0.0,0.0,Angola,Africa
+Vakaga,0.0,0.0,Central Africa,Africa
+Wajir,0.0,0.0,Kenya,Africa
+Welenzas,0.0,0.0,Equat. Guinea,Africa
+West Area,0.0,0.0,Sierra Leone,Africa
+West Bahr Ghazal,0.0,0.0,South Sudan,Africa
+Woleu-Ntem,0.0,0.0,Gabon,Africa
+Yamoussoukro,0.0,0.0,Côte d'Ivoire,Africa
+Zaire,0.0,0.0,Angola,Africa
