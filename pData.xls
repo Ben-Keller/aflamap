@@ -1,0 +1,2322 @@
+,Rain,Drought,Test
+A.M. Kai Thraki,26.0,0.0,1
+Aaland,9.0,8.0,1
+Abia,10.0,4.0,1
+Abidjan,8.0,4.0,1
+Abkhazia ,8.0,1.0,1
+Abruzzi,7.0,1.0,1
+Abu Dhabi,14.0,0.0,1
+Acre,19.0,0.0,1
+Adamaoua,11.0,0.0,1
+Adamawa,5.0,2.0,1
+Adana,10.0,0.0,1
+Adiyaman,7.0,7.0,1
+Adjara Aut. Rep.,12.0,8.0,1
+Adygeya Rep.,15.0,7.0,1
+Afar 1,7.0,0.0,1
+Afar 3,14.0,8.0,1
+Afyon,23.0,2.0,1
+Agri,35.0,8.0,1
+Aguascalientes,17.0,9.0,1
+Ahal,8.0,12.0,1
+Ain-Defla,11.0,8.0,1
+Ain-Temouchent,11.0,4.0,1
+Aiti,17.0,0.0,1
+Ajloon,3.0,7.0,1
+Akershus,16.0,12.0,1
+Akita,13.0,0.0,1
+Akmolinskaya,15.0,8.0,1
+Aksaray,11.0,5.0,1
+Aktyubinskaya,25.0,10.0,1
+Akwa Ibom,13.0,8.0,1
+Al Aziziyah,12.0,8.0,1
+Al Batnah,24.0,7.0,1
+Al Dhale'e,3.0,8.0,1
+Al Fatah,7.0,5.0,1
+Al Hudaydah,3.0,0.0,1
+Al Jabal A.K.,8.0,9.0,1
+Al Jazeera,2.0,5.0,1
+Al Khoms,6.0,9.0,1
+Al Mahwit,2.0,3.0,1
+Al_Qunaytirah,9.0,2.0,1
+Alaba,6.0,4.0,1
+Alabama,7.0,0.0,1
+Alagoas,4.0,3.0,1
+Alajuela,22.0,0.0,1
+Alaotra Mangoro,45.0,2.0,1
+Alba,22.0,13.0,1
+Albania,17.0,7.0,1
+Alberta,19.0,3.0,1
+Aleppo,7.0,9.0,1
+Alger,12.0,14.0,1
+Alibori,6.0,2.0,1
+Almatinskaya,22.0,0.0,1
+Alsace,9.0,0.0,1
+Altayskiy Kray,7.0,5.0,1
+Alto Paraguay,8.0,5.0,1
+Alto Parana,17.0,14.0,1
+Alytaus,9.0,11.0,1
+Amambay,14.0,0.0,1
+Amasya,27.0,9.0,1
+Amazonas,34.0,0.0,4
+Amman,3.0,6.0,1
+Amnat Charoen,5.0,4.0,1
+Amoron I Mania,17.0,0.0,1
+Amurskaya ,8.0,0.0,1
+An Giang,14.0,0.0,1
+Analamanga,9.0,0.0,1
+Analanjirofo,42.0,0.0,1
+Anambra,5.0,2.0,1
+Anbar,7.0,0.0,1
+Ancash,2.0,3.0,1
+Andalucía,9.0,0.0,1
+Andaman,36.0,4.0,1
+Andhra Pradesh,15.0,2.0,1
+Andijan,10.0,3.0,1
+Androy,20.0,21.0,1
+Ang Thong,19.0,1.0,1
+Anhui Sheng,20.0,0.0,1
+Ankara,18.0,10.0,1
+Annaba,3.0,9.0,1
+Anosy,28.0,8.0,1
+Anseba,11.0,2.0,1
+Antalya,12.0,0.0,1
+Antioquia,6.0,0.0,1
+Anzoategui,16.0,21.0,1
+Aomori,11.0,0.0,1
+Apure,16.0,0.0,1
+Apurímac,6.0,0.0,1
+Aquitaine,5.0,0.0,1
+Arad,17.0,0.0,1
+Aragua,9.0,15.0,1
+Aragón,11.0,0.0,1
+Aran,42.0,4.0,1
+Arauca,17.0,0.0,1
+Araucania,8.0,0.0,1
+Ardahan,19.0,7.0,1
+Ardebil,33.0,0.0,1
+Arequipa,8.0,0.0,1
+Arges,20.0,10.0,1
+Ariana,4.0,9.0,1
+Arizona,9.0,1.0,1
+Arkansas,10.0,1.0,1
+Armenia,33.0,6.0,1
+Arsi,14.0,4.0,1
+Artibonite,8.0,0.0,1
+Artigas,10.0,0.0,1
+Artvin,15.0,12.0,1
+Arunachal P.,6.0,0.0,1
+Arusha,6.0,8.0,1
+Arxangai,10.0,12.0,1
+As_Suweida,4.0,2.0,1
+Ashanti,9.0,0.0,1
+Asir,2.0,0.0,1
+Asosa,5.0,0.0,1
+Assam,6.0,0.0,1
+Astrakhanskaya ,22.0,4.0,1
+Asturias,7.0,0.0,1
+Atakora,9.0,3.0,1
+Atlantico,8.0,3.0,1
+Atlantico Norte,8.0,0.0,1
+Atlantico Sur,9.0,0.0,1
+Atlantida,14.0,0.0,1
+Atsimo A.,27.0,0.0,1
+Atsimo Andrefana,3.0,12.0,1
+Attapu,12.0,4.0,1
+Attiki,12.0,4.0,1
+Atyrauskaya,32.0,15.0,1
+Auckland,4.0,0.0,1
+Aust-agder,7.0,7.0,1
+Auvergne,12.0,3.0,1
+Awi Agew,10.0,0.0,1
+Ayacucho,7.0,0.0,1
+Aydin,5.0,4.0,1
+Ayeyawaddy,12.0,0.0,1
+Az Zawia,9.0,12.0,1
+Azuay,18.0,0.0,1
+Ba Ria-Vung Tau,13.0,2.0,1
+Babil,11.0,4.0,1
+Bac Giang,18.0,0.0,1
+Bac Kan,16.0,0.0,1
+Bac Lieu,12.0,4.0,1
+Bac Ninh,16.0,3.0,1
+Bacau,12.0,7.0,1
+Badakhshan,11.0,0.0,1
+Baden W.,7.0,0.0,1
+Badghis,6.0,3.0,1
+Bafata,3.0,0.0,1
+Baghdad,10.0,2.0,1
+Baghlan,9.0,0.0,1
+Bago (E),9.0,2.0,1
+Bago (W),7.0,4.0,1
+Baha,6.0,0.0,1
+Bahia,13.0,13.0,1
+Baja California,2.0,8.0,1
+Bale,20.0,2.0,1
+Bali,23.0,0.0,1
+Balikesir,18.0,4.0,1
+Balkan,6.0,6.0,1
+Balkh,9.0,7.0,1
+Balochistan,19.0,0.0,1
+Balqa,7.0,8.0,1
+Bamyan,11.0,1.0,1
+Bandama,8.0,2.0,1
+Banghazi,4.0,4.0,1
+Bangka Belitung,2.0,0.0,1
+Bangkok,16.0,0.0,1
+Banska Bystrica,11.0,11.0,1
+Banteay Meanchey,9.0,0.0,1
+Banten,15.0,0.0,1
+Barinas,10.0,0.0,1
+Baringo,22.0,7.0,1
+Barisal,11.0,3.0,1
+Bartin,15.0,6.0,1
+Bas Sassandra,13.0,0.0,1
+Bas-Uele,1.0,0.0,1
+Bashkortostan,3.0,8.0,1
+Basilicata,18.0,0.0,1
+Basketo,6.0,0.0,1
+Basrah,5.0,2.0,1
+Basse-Kotto,4.0,0.0,1
+Basse-Normandie,20.0,0.0,1
+Batha,4.0,8.0,1
+Batman,5.0,7.0,1
+Batna,9.0,5.0,1
+Battambang,10.0,0.0,1
+Bauchi,8.0,0.0,1
+Bay,8.0,9.0,1
+Bay Of Plenty,15.0,0.0,1
+Bayburt,23.0,9.0,1
+Bayern,6.0,5.0,1
+Beijing Shi,9.0,0.0,1
+Beja,6.0,12.0,1
+Bejaia,11.0,6.0,1
+Belgorodskaya ,7.0,10.0,1
+Belize,14.0,0.0,1
+Ben Arous,7.0,6.0,1
+Ben Tre,6.0,0.0,1
+Bench Maji,11.0,0.0,1
+Bengkulu,4.0,0.0,1
+Bengo,7.0,7.0,1
+Benguela,5.0,3.0,1
+Beni,17.0,0.0,1
+Benue,3.0,0.0,1
+Bernardo Higgins,4.0,0.0,1
+Betsiboka,2.0,4.0,1
+Bhutan,9.0,1.0,1
+Bicol Region,16.0,0.0,1
+Bie,8.0,0.0,1
+Bihar,20.0,2.0,1
+Bihor,17.0,6.0,1
+Bilecik,43.0,6.0,1
+Bingol,26.0,4.0,1
+Binh Dinh,14.0,0.0,1
+Binh Duong,7.0,0.0,1
+Binh Phuoc,16.0,0.0,1
+Binh Thuan,14.0,1.0,1
+Biobio,15.0,0.0,1
+Biskra,16.0,0.0,1
+Bistrita-nasaud,21.0,15.0,1
+Bitlis,29.0,4.0,1
+Bizerte,3.0,9.0,1
+Blekinge Laen,7.0,5.0,1
+Blida,15.0,2.0,1
+Blue Nile,5.0,4.0,1
+Boaco,7.0,0.0,1
+Boke,3.0,0.0,1
+Bokeo,17.0,0.0,1
+Bolikhamxai,11.0,0.0,1
+Bolivar,24.0,0.0,3
+Bolu,24.0,11.0,1
+Bomet,9.0,3.0,1
+Bomi,9.0,3.0,1
+Bong,10.0,1.0,1
+Bongolava,4.0,0.0,1
+Boqueron,2.0,12.0,1
+Bordj Bou Arrer,7.0,3.0,1
+Borena,17.0,16.0,1
+Borgou,7.0,2.0,1
+Borno,10.0,5.0,1
+BosneHercegovine,7.0,0.0,1
+Botosani,15.0,12.0,1
+Boucle Mouhoun,14.0,2.0,1
+Bouenza,2.0,3.0,1
+Bouira,11.0,8.0,1
+Boumerdes,16.0,3.0,1
+Bourgogne,12.0,2.0,1
+Boyaca,19.0,0.0,1
+Braila,20.0,4.0,1
+Brandenburg,16.0,7.0,1
+Brasov,21.0,7.0,1
+Bratislava,18.0,0.0,1
+Brest,9.0,7.0,1
+Bretagne,5.0,0.0,1
+British Columbia,12.0,0.0,1
+Brong Ahafo,11.0,0.0,1
+Bryanskaya ,5.0,4.0,1
+Bucuresti,26.0,1.0,1
+Buenos Aires,7.0,0.0,1
+Bulgan,17.0,7.0,1
+Bulgaria,32.0,2.0,1
+Bungoma,17.0,0.0,1
+Burdur,19.0,8.0,1
+Burgenland,12.0,2.0,1
+Buriram,8.0,2.0,1
+Bursa,32.0,0.0,1
+Burundi East,12.0,0.0,1
+Burundi West,5.0,0.0,1
+Bushehr,13.0,8.0,1
+Busia,17.0,0.0,1
+Buskerud,6.0,14.0,1
+Buzau,24.0,9.0,1
+C. Equatoria,7.0,0.0,1
+C. Valenciana,38.0,0.0,1
+Ca Mau,13.0,7.0,1
+Caaguazu,19.0,1.0,1
+Caazapa,9.0,1.0,1
+Cabo Delgado,2.0,0.0,1
+Cagayan Valley,10.0,0.0,1
+Cajamarca,15.0,0.0,1
+Calabarzon,23.0,0.0,1
+Calabria,15.0,0.0,1
+Calarasi,21.0,4.0,1
+Caldas,13.0,0.0,1
+California,6.0,0.0,1
+Camaguey,11.0,1.0,1
+Campania,12.0,0.0,1
+Campeche,14.0,0.0,1
+Can Tho city,11.0,7.0,1
+Canakkale,16.0,4.0,1
+Canar,12.0,0.0,1
+Canarias,17.0,9.0,1
+Canelones,13.0,3.0,1
+Canindeyu,27.0,3.0,1
+Cankiri,32.0,0.0,1
+Cantabria,8.0,0.0,1
+Canterbury,18.0,0.0,1
+Cao Bang,17.0,0.0,1
+Caraga,7.0,0.0,1
+Caras-severin,14.0,2.0,1
+Carazo,2.0,0.0,1
+Carchi,8.0,0.0,1
+Cartago,19.0,0.0,1
+Casanare,11.0,0.0,1
+Cascades,5.0,0.0,1
+Castilla L.M.,10.0,2.0,1
+Castilla y León,12.0,6.0,1
+Cataluña,5.0,0.0,1
+Catamarca,4.0,6.0,1
+Cauca,13.0,0.0,1
+Ceara,12.0,7.0,1
+Central,105.0,33.0,9
+Central Area,5.0,0.0,1
+Central Luzon,17.0,0.0,1
+Central Region,9.0,3.0,1
+Central Visayas,20.0,0.0,1
+Centrale,12.0,0.0,1
+Centre,31.0,7.0,4
+Centre-est,8.0,3.0,1
+Centre-nord,9.0,6.0,1
+Centre-ouest,9.0,2.0,1
+Centre-sud,6.0,2.0,1
+Cerro Largo,6.0,7.0,1
+Cesar,13.0,1.0,1
+Chachoengsao,15.0,2.0,1
+Chaco,18.0,4.0,1
+Chagang-do,12.0,0.0,1
+Chaharmahal-o B.,10.0,4.0,1
+Chainat,20.0,2.0,1
+Chaiyaphum,7.0,0.0,1
+Champagne,21.0,0.0,1
+Champasak,7.0,5.0,1
+Chanthaburi,14.0,0.0,1
+Chaouia,3.0,8.0,1
+Chari-Baguirmi,7.0,3.0,1
+Chechnya Rep.,34.0,6.0,1
+Cheju-do,20.0,0.0,1
+Chelyabinskaya ,4.0,24.0,1
+Cherkas'ka,16.0,4.0,1
+Chernihivs'ka,8.0,4.0,1
+Chernivets'ka,20.0,5.0,1
+Chhattisgarh,19.0,2.0,1
+Chiang Mai,12.0,0.0,1
+Chiang Rai,17.0,0.0,1
+Chiapas,19.0,0.0,1
+Chihuahua,14.0,5.0,1
+Chimborazo,23.0,0.0,1
+Chimbu,10.0,0.0,1
+Chinandega,3.0,0.0,1
+Chiriquí,15.0,0.0,1
+Chittagong,14.0,2.0,1
+Chlef,15.0,6.0,1
+Chobe,3.0,6.0,1
+Choco,15.0,2.0,1
+Chollabuk-do,15.0,0.0,1
+Chollanam-do,19.0,0.0,1
+Choluteca,10.0,0.0,1
+Chonburi,5.0,0.0,1
+Chongqing Shi,16.0,0.0,1
+Chontales,12.0,0.0,1
+Chumphon,14.0,0.0,1
+Chungchongbuk-do,9.0,0.0,1
+Chungchongnam-do,11.0,0.0,1
+Chuquisaca,5.0,1.0,1
+Chuvashiya Rep.,1.0,10.0,1
+Chuy,30.0,10.0,1
+Ciego De Avila,13.0,4.0,1
+Cienfuegos,12.0,0.0,1
+Cluj,23.0,7.0,1
+Coahuila,13.0,0.0,1
+Cochabamba,12.0,0.0,1
+Coclé,9.0,0.0,1
+Cojedes,10.0,4.0,1
+Colima,24.0,0.0,1
+Collines,10.0,0.0,1
+Colon,12.0,0.0,1
+Colonia,15.0,3.0,1
+Colorado,17.0,5.0,1
+Comayagua,9.0,0.0,1
+Comoe,10.0,4.0,1
+Concepcion,18.0,0.0,1
+Connecticut,11.0,0.0,1
+Constanta,13.0,6.0,1
+Constantine,4.0,10.0,1
+Copan,19.0,0.0,1
+Copperbelt,9.0,0.0,1
+Cordillera,22.0,0.0,2
+Cordoba,15.0,4.0,2
+Corrientes,14.0,9.0,1
+Corse,14.0,2.0,1
+Cortes,15.0,0.0,1
+Corum,31.0,4.0,1
+Cotopaxi,5.0,0.0,1
+Couffo,9.0,1.0,1
+Covasna,19.0,10.0,1
+Croatia,10.0,7.0,1
+Cross River,9.0,1.0,1
+Cuando Cubango,7.0,0.0,1
+Cuanza Sul,5.0,4.0,1
+Cundinamarca,16.0,0.0,1
+Cunene,10.0,9.0,1
+Cusco,15.0,0.0,1
+Cyprus,18.0,6.0,1
+Da Nang City,20.0,2.0,1
+Dadra,9.0,2.0,1
+Daerah I.Y.,18.0,0.0,1
+Dagestan Rep.,28.0,4.0,1
+Daghlig Shirvan,18.0,0.0,1
+Dahuk,8.0,7.0,1
+Dak Lak,13.0,2.0,1
+Dak Nong,14.0,0.0,1
+Dakar,4.0,11.0,1
+Dalarnas Laen,8.0,8.0,1
+Daman and Diu,7.0,5.0,1
+Damascus,8.0,0.0,1
+Dara,5.0,1.0,1
+Darién,5.0,0.0,1
+Darnah,7.0,6.0,1
+Darxan-Uul,7.0,8.0,1
+Davao Region,6.0,0.0,1
+Dawro,11.0,0.0,1
+Daykundi,10.0,4.0,1
+Dayr_Az_Zor,10.0,12.0,1
+Debub,7.0,4.0,1
+Delaware,9.0,0.0,1
+Delhi,25.0,8.0,1
+Delta,4.0,2.0,1
+Demerara Mahaica,15.0,0.0,1
+Denguele,3.0,0.0,1
+Denizli,31.0,0.0,1
+Denmark,16.0,0.0,1
+Dhaka,17.0,4.0,1
+Dhamar,4.0,4.0,1
+Diana,7.0,0.0,1
+Dien Bien,24.0,0.0,1
+Diffa,7.0,3.0,1
+Dimbovita,22.0,12.0,1
+Diourbel,2.0,7.0,1
+Dire Dawa,11.0,6.0,1
+Distrito Federal,11.0,12.0,2
+Diyala,13.0,7.0,1
+Diyarbakir,6.0,9.0,1
+Djelfa,13.0,3.0,1
+Dnipropetrovs'ka,25.0,7.0,1
+Dodoma,12.0,10.0,1
+Dolj,31.0,4.0,1
+Dolnoslaskie,22.0,4.0,1
+Dominican R.,14.0,1.0,1
+Donets'ka,18.0,10.0,1
+Dong Nai,17.0,0.0,1
+Dong Thap,7.0,0.0,1
+Donga,9.0,0.0,1
+Dosso,4.0,1.0,1
+Doukkala - Abda,7.0,9.0,1
+Durango,23.0,4.0,1
+Durazno,19.0,4.0,1
+Dytiki Ellada,7.0,0.0,1
+Dytiki Makedonia,25.0,0.0,1
+Dél-Alföld,22.0,0.0,1
+Dél-Dunántúl,20.0,3.0,1
+East Azarbayejan,21.0,3.0,1
+East Berbice,10.0,0.0,1
+East Cape,11.0,0.0,1
+East Gojam,7.0,1.0,1
+East Harerge,12.0,3.0,1
+East Highlands,8.0,0.0,1
+East Sepik,8.0,0.0,1
+East Shewa,7.0,2.0,1
+East Wellega,9.0,0.0,1
+Eastern,103.0,10.0,8
+Eastern Area,6.0,0.0,1
+Eastern Cape,16.0,10.0,1
+Eastern Finland,12.0,1.0,1
+Eastern Visayas,3.0,0.0,1
+Ebonyi,5.0,1.0,1
+Edirne,29.0,12.0,1
+Edo,3.0,2.0,1
+Ehime,15.0,0.0,1
+Ekiti,7.0,0.0,1
+El Buheyrat,8.0,0.0,1
+El Oro,2.0,0.0,1
+El Oued,4.0,1.0,1
+El-Tarf,7.0,4.0,1
+Elazig,10.0,3.0,1
+Embu,10.0,7.0,1
+Emilia-romagna,20.0,0.0,1
+England,23.0,2.0,1
+Entre Rios,15.0,2.0,1
+Enugu,6.0,7.0,1
+Erbil,9.0,3.0,1
+Erzincan,19.0,12.0,1
+Erzurum,37.0,6.0,1
+Esfahan,13.0,0.0,1
+Eskisehir,29.0,6.0,1
+Esmeraldas,16.0,5.0,1
+Espirito Santo,13.0,4.0,1
+Essequibo,15.0,0.0,1
+Est,3.0,8.0,2
+Esteli,2.0,0.0,1
+Estonia,8.0,0.0,1
+Estuaire,7.0,1.0,1
+Extremadura,6.0,33.0,1
+Extrême - Nord,9.0,1.0,1
+F. Morazan,12.0,0.0,1
+FA Tribal Areas,25.0,4.0,1
+FCT - Abuja,3.0,0.0,1
+Fafan,23.0,8.0,1
+Falcon,18.0,3.0,1
+Far West,20.0,2.0,1
+Farah,2.0,3.0,1
+Faranah,7.0,0.0,1
+Fars,1.0,0.0,1
+Faryab,18.0,0.0,1
+Fatick,1.0,8.0,1
+Fergana,6.0,3.0,1
+Flores,18.0,6.0,1
+Florida,33.0,0.0,2
+Formosa,24.0,6.0,1
+Franche-Comte,11.0,0.0,1
+Free State,8.0,12.0,1
+Friuli,6.0,0.0,1
+Fujian Sheng,29.0,0.0,1
+Fès - Boulemane,12.0,4.0,1
+Gabes,10.0,3.0,1
+Gabu,1.0,0.0,1
+Gadaref,3.0,7.0,1
+Gaevleborgs Laen,8.0,6.0,1
+Gafsa,8.0,4.0,1
+Galati,23.0,8.0,1
+Galicia,10.0,0.0,1
+Gambia,6.0,2.0,1
+Gamo Gofa,20.0,0.0,1
+Ganja-Gazakh,52.0,0.0,1
+Gansu Sheng,18.0,8.0,1
+Gash Barka,12.0,4.0,1
+Gauteng,8.0,13.0,1
+Gaza,11.0,8.0,1
+Gaziantep,8.0,2.0,1
+Gedo,14.0,11.0,1
+Geita,7.0,0.0,1
+Georgia,6.0,0.0,1
+Gharb,10.0,12.0,1
+Ghazni,7.0,11.0,1
+Ghazvin,21.0,0.0,1
+Ghom,10.0,1.0,1
+Ghor,15.0,1.0,1
+Gia Lai,13.0,4.0,1
+Gifu,16.0,0.0,1
+Gilan,22.0,0.0,1
+Giresun,12.0,3.0,1
+Giurgiu,21.0,0.0,1
+Goa,12.0,6.0,1
+Goias,7.0,0.0,1
+Golestan,18.0,8.0,1
+Gombe,10.0,2.0,1
+Gomel,9.0,0.0,1
+Gorgol,2.0,8.0,1
+Gorj,17.0,5.0,1
+Gorontalo,11.0,0.0,1
+Gotlands Laen,10.0,14.0,1
+Gracias A Dios,16.0,0.0,1
+Granada,3.0,4.0,1
+Grand Bassa,13.0,2.0,1
+Grand Cape Mount,6.0,4.0,1
+Grand Casablanca,4.0,8.0,1
+Grand Kru,4.0,0.0,1
+Grande Anse,7.0,1.0,1
+Granma,10.0,1.0,1
+Greater Accra,11.0,9.0,1
+Grodno,10.0,12.0,1
+Guaira,8.0,0.0,1
+Guajira,21.0,2.0,1
+Guanacaste,3.0,0.0,1
+Guanajuato,15.0,12.0,1
+Guangdong Sheng,24.0,0.0,1
+Guangxi Z.Z.,18.0,0.0,1
+Guantanamo,10.0,3.0,1
+Guarico,9.0,24.0,1
+Guayas,7.0,2.0,1
+Guba-Khachmaz,31.0,3.0,1
+Guelma,9.0,6.0,1
+Guera,6.0,4.0,1
+Guerrero,14.0,0.0,1
+Guidimakha,7.0,8.0,1
+Guizhou Sheng,12.0,3.0,1
+Gujarat,6.0,6.0,1
+Guji,20.0,3.0,1
+Gumushane,18.0,12.0,1
+Gunma,17.0,0.0,1
+Gurage,9.0,1.0,1
+Guria,10.0,0.0,1
+Gôh-Djiboua,6.0,1.0,1
+Ha Giang,16.0,0.0,1
+Ha Nam,19.0,1.0,1
+Ha Noi City,18.0,0.0,1
+Ha Tay,22.0,0.0,1
+Ha Tinh,19.0,0.0,1
+Hadiya,6.0,0.0,1
+Hadjer-Lamis,7.0,5.0,1
+Hai Duong,23.0,5.0,1
+Hai Phong City,19.0,6.0,1
+Hail,7.0,0.0,1
+Hainan Sheng,15.0,4.0,1
+Hakkari,17.0,13.0,1
+Hallands Laen,11.0,5.0,1
+Hama,11.0,2.0,1
+Hamedan,8.0,5.0,1
+Hamgyong-bukto,8.0,0.0,1
+Hamgyong-namdo,7.0,1.0,1
+Hareri,14.0,3.0,1
+Harghita,15.0,12.0,1
+Haryana,18.0,13.0,1
+Hassakeh,7.0,4.0,1
+Hatay,21.0,6.0,1
+Hau Giang,14.0,0.0,1
+Haut-Katanga,7.0,0.0,1
+Haut-Lomami,10.0,0.0,1
+Haut-Uele,3.0,0.0,1
+Haute Matsiatra,27.0,0.0,1
+Haute-Normandie,25.0,2.0,1
+Hauts-bassins,10.0,2.0,1
+Hawke's Bay,12.0,0.0,1
+Hebei Sheng,10.0,0.0,1
+Hedmark,6.0,10.0,1
+Heilongjiang S.,12.0,0.0,1
+Henan Sheng,22.0,0.0,1
+Heredia,17.0,0.0,1
+Herrera,6.0,1.0,1
+Hessen,20.0,1.0,1
+Hidalgo,26.0,0.0,1
+Hilmand,4.0,6.0,1
+Himachal Pradesh,25.0,0.0,1
+Hiraan,6.0,8.0,1
+Hirat,1.0,8.0,1
+Hirosima,16.0,0.0,1
+Ho Chi Minh City,14.0,0.0,1
+Hoa Binh,10.0,0.0,1
+Hodh Ech Chargi,8.0,4.0,1
+Hodh El Gharbi,11.0,3.0,1
+Hokkaidoo,9.0,0.0,1
+Holguin,13.0,4.0,1
+Homa Bay,15.0,4.0,1
+Homs,8.0,2.0,1
+Hordaland,6.0,0.0,1
+Hormozgan,13.0,6.0,1
+Horo Guduru,7.0,0.0,1
+Houaphan,13.0,0.0,1
+Huambo,10.0,0.0,1
+Huancavelica,9.0,0.0,1
+Hubei Sheng,16.0,0.0,1
+Huehuetenango,19.0,0.0,1
+Huila,20.0,5.0,2
+Hukui,16.0,0.0,1
+Hukuoka,12.0,0.0,1
+Hukusima,23.0,0.0,1
+Hunan Sheng,14.0,0.0,1
+Hunedoara,15.0,10.0,1
+Hung Yen,17.0,3.0,1
+Huánuco,21.0,0.0,1
+Hwanghae-bukto,9.0,0.0,1
+Hwanghae-namdo,11.0,0.0,1
+Hyoogo,12.0,0.0,1
+Ialomita,27.0,0.0,1
+Iasi,16.0,16.0,1
+Ibaraki,20.0,0.0,1
+Ibb,4.0,8.0,1
+Icel,6.0,0.0,1
+Idaho,22.0,0.0,1
+Idleb,7.0,7.0,1
+Igdir,20.0,13.0,1
+Ihorombe,17.0,3.0,1
+Ilam,15.0,0.0,1
+Ile-de-France,11.0,4.0,1
+Illes Balears,8.0,17.0,1
+Illinois,14.0,2.0,1
+Ilocos Region,13.0,0.0,1
+Ilubabor,12.0,0.0,1
+Imbabura,19.0,0.0,1
+Imereti,14.0,1.0,1
+Imo,11.0,6.0,1
+Indiana,6.0,1.0,1
+Ingushetiya Rep.,26.0,6.0,1
+Inhambane,8.0,0.0,1
+Intibuca,5.0,0.0,1
+Ionioi Nisoi,22.0,0.0,1
+Iowa,23.0,0.0,1
+Ipeiros,18.0,0.0,1
+Irbid,8.0,4.0,1
+Ireland,5.0,0.0,1
+Iringa,7.0,3.0,1
+Irkutskaya ,12.0,0.0,1
+Isikawa,16.0,0.0,1
+Isla Juventud,10.0,0.0,1
+Isparta,29.0,10.0,1
+Israel,7.0,3.0,1
+Istanbul,36.0,5.0,1
+Itapua,3.0,3.0,1
+Itasy,10.0,0.0,1
+Ituri,5.0,0.0,1
+Ivano,17.0,6.0,1
+Ivanovskaya ,8.0,1.0,1
+Iwate,17.0,0.0,1
+Izabal,18.0,0.0,1
+Izmir,5.0,0.0,1
+Jaemtlands Laen,5.0,0.0,1
+Jalal-Abad,5.0,0.0,1
+Jalisco,28.0,0.0,1
+Jamaica,13.0,1.0,1
+Jambi,13.0,0.0,1
+Jambylslkaya,31.0,0.0,1
+Jarash,5.0,4.0,1
+Jawa Barat,23.0,0.0,1
+Jawa Tengah,24.0,0.0,1
+Jawa Timur,21.0,0.0,1
+Jawf,7.0,0.0,1
+Jawzjan,9.0,12.0,1
+Jendouba,5.0,3.0,1
+Jharkhand,14.0,0.0,1
+Jiangsu Sheng,15.0,0.0,1
+Jiangxi Sheng,21.0,0.0,1
+Jigawa,3.0,4.0,1
+Jihocesky,16.0,8.0,1
+Jihomoravsky,22.0,2.0,1
+Jijel,5.0,0.0,1
+Jilin Sheng,15.0,0.0,1
+Jimma,8.0,0.0,1
+Jinotega,6.0,0.0,1
+Jizan,18.0,3.0,1
+Jizzakh,13.0,5.0,1
+Joenkoepings,9.0,3.0,1
+Johor,12.0,0.0,1
+Jonglei,4.0,8.0,1
+Juba Dhexe,22.0,13.0,1
+Juba Hoose,23.0,14.0,1
+Jujuy,1.0,0.0,1
+Junín,9.0,0.0,1
+K.maras,11.0,0.0,1
+KT,8.0,0.0,1
+Kabardino B.,14.0,3.0,1
+Kabul,18.0,7.0,1
+Kachin,12.0,0.0,1
+Kaduna,10.0,1.0,1
+Kaesong-si,5.0,0.0,1
+Kaffrine,5.0,11.0,1
+Kagawa,15.0,0.0,1
+Kagera,18.0,2.0,1
+Kagosima,18.0,0.0,1
+Kairouan,11.0,4.0,1
+Kajiado,5.0,10.0,1
+Kakamega,25.0,0.0,1
+Kakheti,18.0,2.0,1
+Kalasin,9.0,2.0,1
+Kalbajar-Lachin,25.0,2.0,1
+Kalimantan Barat,14.0,0.0,1
+Kalimantan S.,21.0,0.0,1
+Kalimantan T.,10.0,0.0,1
+Kalimantan Timur,9.0,0.0,1
+Kaliningradskaya,9.0,4.0,1
+Kalmar Laen,9.0,13.0,1
+Kalmykiya Rep.,6.0,3.0,1
+Kaluzhskaya ,7.0,4.0,1
+Kampaeng Phet,5.0,0.0,1
+Kampong Cham,5.0,0.0,1
+Kampong Chhnang,8.0,0.0,1
+Kampong Speu,4.0,5.0,1
+Kampong Thom,5.0,2.0,1
+Kampot,7.0,0.0,1
+Kanagawa,11.0,0.0,1
+Kanchanaburi,10.0,3.0,1
+Kandahar,1.0,0.0,1
+Kandal,9.0,0.0,1
+Kang-won-do,8.0,0.0,1
+Kangwon-do,5.0,0.0,1
+Kankan,5.0,0.0,1
+Kano,4.0,5.0,1
+Kansas,14.0,9.0,1
+Kaolack,5.0,6.0,1
+Kapisa,24.0,2.0,1
+Kara,5.0,1.0,1
+Karabuk,27.0,4.0,1
+Karagandinskaya,16.0,6.0,1
+Karak,1.0,8.0,1
+Karakalpakstan,6.0,3.0,1
+Karaman,11.0,0.0,1
+Karamoja,30.0,11.0,1
+Karatchayevo,20.0,7.0,1
+Karnataka,9.0,3.0,1
+Karnten,5.0,0.0,1
+Kars,33.0,4.0,1
+Kasai-Central,12.0,0.0,1
+Kasai-Oriental,9.0,0.0,1
+Kashkadarya,11.0,6.0,1
+Kassala,3.0,0.0,1
+Kasserine,6.0,3.0,1
+Kastamonu,21.0,9.0,1
+Katavi,10.0,0.0,1
+Katsina,6.0,2.0,1
+Kauno,7.0,14.0,1
+Kavango East,5.0,7.0,1
+Kavango West,6.0,10.0,1
+Kayar,6.0,0.0,1
+Kayes,10.0,3.0,1
+Kayin,11.0,2.0,1
+Kayseri,15.0,3.0,1
+Kebbi,8.0,2.0,1
+Kebili,15.0,0.0,1
+Kedah,21.0,0.0,1
+Kedougou,3.0,0.0,1
+Keffa,11.0,0.0,1
+Keiyo-Marakwet,11.0,0.0,1
+Kelantan,5.0,0.0,1
+Kelem Wellega,11.0,0.0,1
+Kemashi,9.0,1.0,1
+Kemerovskaya ,7.0,5.0,1
+Kentriki M.,16.0,0.0,1
+Kentucky,15.0,0.0,1
+Kepulauan-riau,6.0,0.0,1
+Kerala,20.0,0.0,1
+Kerbala,5.0,0.0,1
+Kericho,9.0,0.0,1
+Kerman,1.0,0.0,1
+Kermanshah,7.0,9.0,1
+Kgatleng,5.0,39.0,1
+Khakasiya Rep.,9.0,8.0,1
+Khammouan,21.0,3.0,1
+Khanh Hoa,19.0,4.0,1
+Kharkivs'ka,20.0,17.0,1
+Khartoum,1.0,0.0,1
+Khatlon,9.0,2.0,1
+Khenchela,5.0,3.0,1
+Khersons'ka,19.0,0.0,1
+Khmel'nyts'ka,17.0,5.0,1
+Khon Kaen,7.0,0.0,1
+Khorasan,12.0,0.0,1
+Khost,19.0,7.0,1
+Khulna,11.0,0.0,1
+Khuzestan,13.0,6.0,1
+Kiambu,25.0,2.0,1
+Kien Giang,12.0,0.0,1
+Kigoma,7.0,0.0,1
+Kilifi,9.0,9.0,1
+Kilimanjaro,16.0,8.0,1
+Kilis,7.0,4.0,1
+Kindia,7.0,0.0,1
+Kinshasa,8.0,0.0,1
+Kirikkale,16.0,10.0,1
+Kirinyaga,13.0,1.0,1
+Kirklareli,20.0,8.0,1
+Kirkuk,11.0,5.0,1
+Kirovohrads'ka,23.0,8.0,1
+Kirovskaya ,1.0,5.0,1
+Kirsehir,11.0,9.0,1
+Kisii,11.0,0.0,1
+Kisumu,17.0,9.0,1
+Kitui,11.0,7.0,1
+Klaipedos,3.0,11.0,1
+Kocaeli,42.0,1.0,1
+Kogi,2.0,0.0,1
+Koh Kong,12.0,0.0,1
+Kohgiluyeh,12.0,0.0,1
+Kolda,4.0,0.0,1
+Komi-permyatskiy,4.0,11.0,1
+Kon Tum,12.0,4.0,1
+Kongo-Central,4.0,0.0,1
+Konta,7.0,0.0,1
+Konya,17.0,5.0,1
+Kooti,11.0,0.0,1
+Kordestan,11.0,8.0,1
+Kosice,15.0,7.0,1
+Kostromskaya ,11.0,0.0,1
+Kouilou,2.0,6.0,1
+Koulikoro,7.0,0.0,1
+Krabi,13.0,0.0,1
+Krasnodarskiy,10.0,4.0,1
+Krasnoyarskiy,8.0,0.0,1
+Kratie,3.0,0.0,1
+Kriti,9.0,0.0,1
+Kronobergs Laen,8.0,4.0,1
+Krym,16.0,4.0,1
+Kujawsko P.,17.0,1.0,1
+Kumamoto,12.0,0.0,1
+Kunar,12.0,4.0,1
+Kunduz,13.0,7.0,1
+Kurganskaya ,8.0,11.0,1
+Kurskaya ,7.0,9.0,1
+Kustanayskaya,11.0,15.0,1
+Kutahya,34.0,5.0,1
+Kvemo Kartli,29.0,2.0,1
+KwaZulu-Natal,15.0,5.0,1
+Kwale,12.0,10.0,1
+Kwango,9.0,0.0,1
+Kwara,12.0,0.0,1
+Kweneng,9.0,17.0,1
+Kwilu,9.0,0.0,1
+Kyonggi-do,12.0,0.0,1
+Kyongsangbuk-do,14.0,0.0,1
+Kyongsangnam-do,17.0,0.0,1
+Kyooto,18.0,0.0,1
+Kyyivs'ka,16.0,4.0,1
+Kyzylordinskaya,13.0,0.0,1
+Kémo,4.0,0.0,1
+Közép-Dunántúl,22.0,3.0,1
+Közép-Magyar.,20.0,7.0,1
+L'vivs'ka,16.0,2.0,1
+La Habana,14.0,0.0,1
+La Libertad,2.0,3.0,1
+La Pampa,7.0,4.0,1
+La Paz,32.0,5.0,2
+La Rioja,14.0,4.0,2
+Labe,6.0,0.0,1
+Lac,5.0,1.0,1
+Lacs,7.0,6.0,1
+Laghman,28.0,1.0,1
+Laghouat,10.0,4.0,1
+Lagunes,8.0,4.0,1
+Lahj,8.0,0.0,1
+Lai Chau,15.0,0.0,1
+Laikipia,18.0,14.0,1
+Lake Albert,13.0,1.0,1
+Lake Victoria,15.0,0.0,1
+Lam Dong,18.0,0.0,1
+Lampang,7.0,0.0,1
+Lamphun,9.0,0.0,1
+Lampung,15.0,0.0,1
+Lamu,10.0,7.0,1
+Lang Son,18.0,0.0,1
+Languedoc R.,12.0,0.0,1
+Lankaran,9.0,4.0,1
+Lao Cai,13.0,0.0,1
+Lara,15.0,4.0,1
+Las Tunas,9.0,4.0,1
+Lattakia,12.0,0.0,1
+Latvia,3.0,3.0,1
+Lavalleja,15.0,0.0,1
+Lazio,9.0,0.0,1
+Le Kef,5.0,8.0,1
+Lebanon,6.0,0.0,1
+Lebap,10.0,0.0,1
+Lempira,10.0,0.0,1
+Leningradskaya ,11.0,0.0,1
+Leon,4.0,1.0,1
+Lesotho,9.0,6.0,1
+Liaoning Sheng,11.0,3.0,1
+Liguria,7.0,0.0,1
+Limon,26.0,0.0,1
+Limousin,13.0,0.0,1
+Limpopo,6.0,34.0,1
+Lindi,4.0,2.0,1
+Lipetskaya ,6.0,9.0,1
+Littoral,6.0,5.0,1
+Lodzkie,23.0,1.0,1
+Loei,3.0,1.0,1
+Lofa,12.0,0.0,1
+Logar,16.0,8.0,1
+Logone Occid.,6.0,0.0,1
+Logone Oriental,6.0,1.0,1
+Loja,2.0,0.0,1
+Lomami,12.0,0.0,1
+Lombardia,11.0,1.0,1
+Long An,6.0,0.0,1
+Lopburi,6.0,0.0,1
+Lorestan,4.0,3.0,1
+Lorraine,24.0,0.0,1
+Los Lagos,10.0,0.0,1
+Los Rios,18.0,0.0,2
+Los Santos,1.0,2.0,1
+Louang-Namtha,16.0,0.0,1
+Louangphabang,23.0,0.0,1
+Louga,3.0,9.0,1
+Louisiana,18.0,0.0,1
+Lualaba,4.0,0.0,1
+Luanda,6.0,9.0,1
+Luapula,5.0,0.0,1
+Lubeiskie,19.0,3.0,1
+Lubuskie,9.0,1.0,1
+Luhans'ka,9.0,8.0,1
+Lusaka,7.0,2.0,1
+Luxembourg,4.0,0.0,1
+M'Sila,9.0,6.0,1
+Machakos,7.0,7.0,1
+Madaba,4.0,5.0,1
+Madang,2.0,0.0,1
+Madhya Pradesh,21.0,4.0,1
+Madrid,6.0,6.0,1
+Madriz,5.0,0.0,1
+Mae Hong Son,11.0,0.0,1
+Maekel,10.0,4.0,1
+Mafraq,5.0,3.0,1
+Magdalena,11.0,0.0,1
+Magway,1.0,2.0,1
+Maha Sarakham,10.0,2.0,1
+Mahaica Berbice,11.0,5.0,1
+Maharashtra,11.0,3.0,1
+Mahdia,17.0,7.0,1
+Maine,13.0,0.0,1
+Majang,8.0,0.0,1
+Makueni,7.0,6.0,1
+Malanje,5.0,0.0,1
+Malatya,21.0,0.0,1
+Maldonado,14.0,0.0,1
+Malindi,17.0,10.0,1
+Malopolske,13.0,3.0,1
+Maluku,19.0,0.0,1
+Maluku Utara,21.0,0.0,1
+Mambéré-Kadéï,10.0,0.0,1
+Mamou,5.0,0.0,1
+Manabi,10.0,4.0,1
+Managua,12.0,6.0,1
+Mandalay,4.0,3.0,1
+Mandoul,4.0,0.0,1
+Manica,8.0,3.0,1
+Manicaland,7.0,7.0,1
+Maniema,15.0,0.0,1
+Manipur,10.0,2.0,1
+Manisa,15.0,1.0,1
+Manitoba,19.0,4.0,1
+Manouba,5.0,6.0,1
+Manyara,5.0,15.0,1
+Maputo,11.0,16.0,1
+Mara,21.0,6.0,1
+Maradi,4.0,5.0,1
+Maramures,18.0,12.0,1
+Maranhao,6.0,0.0,1
+Marche,9.0,2.0,1
+Mardin,6.0,2.0,1
+Margibi,14.0,4.0,1
+Marib,10.0,1.0,1
+Marijampoles,11.0,8.0,1
+Maritime,11.0,0.0,1
+Mariy-el Rep.,3.0,8.0,1
+Markazi,4.0,6.0,1
+Marrakech,10.0,6.0,1
+Mary,6.0,8.0,1
+Maryland,19.0,3.0,2
+Masaya,3.0,4.0,1
+Mascara,9.0,7.0,1
+Mashonaland C.,6.0,1.0,1
+Mashonaland East,9.0,2.0,1
+Mashonaland West,5.0,3.0,1
+Massachusetts,13.0,0.0,1
+Masvingo,6.0,9.0,1
+Matabeleland N.,8.0,10.0,1
+Matabeleland S.,4.0,22.0,1
+Matagalpa,2.0,0.0,1
+Matam,4.0,8.0,1
+Matanzas,8.0,0.0,1
+Mato Grosso,11.0,0.0,1
+Mato Grosso S,15.0,5.0,1
+Maule,3.0,0.0,1
+Mayo-Kebbi Est,4.0,1.0,1
+Mayo-Kebbi Ouest,4.0,2.0,1
+Mazandaran,16.0,0.0,1
+Mazowieckie,15.0,7.0,1
+Mbeya,10.0,1.0,1
+Mecklenburg V.,18.0,9.0,1
+Medea,13.0,9.0,1
+Medenine,9.0,4.0,1
+Meghalaya,13.0,0.0,1
+Mehedinti,20.0,11.0,1
+Meknès,14.0,4.0,1
+Melaka,6.0,0.0,1
+Menabe,4.0,3.0,1
+Mendoza,7.0,1.0,1
+Merida,14.0,0.0,1
+Meru,15.0,10.0,1
+Meta,11.0,0.0,1
+Metekel,6.0,0.0,1
+Metropolitana,10.0,0.0,1
+Mexico,14.0,7.0,1
+Michigan,14.0,0.0,1
+Michoacan,15.0,0.0,1
+Mid Northen,5.0,1.0,1
+Mid West,33.0,0.0,1
+Midi-Pyrenees,24.0,1.0,1
+Midlands,7.0,13.0,1
+Mie,15.0,0.0,1
+Migori,12.0,0.0,1
+Mila,5.0,8.0,1
+Milne Bay,6.0,0.0,1
+Minas Gerais,15.0,0.0,1
+Minnesota,23.0,1.0,1
+Minsk,9.0,9.0,1
+Misiones,22.0,4.0,2
+Missan,9.0,6.0,1
+Mississippi,15.0,2.0,1
+Missouri,15.0,0.0,1
+Misurata,11.0,18.0,1
+Miyagi,26.0,0.0,1
+Miyazaki,14.0,0.0,1
+Mizoram,5.0,0.0,1
+Moere Og Romsdal,4.0,4.0,1
+Mogilev,5.0,2.0,1
+Moldova,21.0,14.0,1
+Molise,17.0,0.0,1
+Mon,9.0,2.0,1
+Monagas,10.0,0.0,1
+Monastir,20.0,9.0,1
+Mondul Kiri,9.0,0.0,1
+Mongala,5.0,0.0,1
+Montagnes,11.0,0.0,1
+Montana,23.0,2.0,1
+Montenegro,6.0,0.0,1
+Montevideo,14.0,0.0,1
+Montserrado,12.0,4.0,1
+Mopti,5.0,1.0,1
+Moquegua,7.0,4.0,1
+Mordoviya Rep.,4.0,10.0,1
+Morelos,11.0,0.0,1
+Morobe,13.0,0.0,1
+Morogoro,3.0,8.0,1
+Moskovskaya ,7.0,3.0,1
+Mostaganem,9.0,9.0,1
+Motagua Valley,15.0,1.0,1
+Moyen-Chari,3.0,0.0,1
+Mpumalanga,16.0,13.0,1
+Mtskheta,20.0,7.0,1
+Mtwara,3.0,3.0,1
+Mugla,18.0,0.0,1
+Mukdahan,11.0,2.0,1
+Muranga,13.0,0.0,1
+Mures,16.0,11.0,1
+Mus,8.0,3.0,1
+Muslim Mindanao,16.0,0.0,1
+Muthanna,5.0,4.0,1
+Mwanza,8.0,1.0,1
+Mykolayivs'ka,31.0,0.0,1
+N. De Santander,17.0,0.0,1
+N.W. Frontier,20.0,1.0,1
+Nabeul,10.0,4.0,1
+Nagaland,6.0,0.0,1
+Nagano,19.0,0.0,1
+Nagasaki,14.0,0.0,1
+Nairobi,14.0,9.0,1
+Najaf,5.0,4.0,1
+Nakhchivan,39.0,8.0,1
+Nakhon Nayok,21.0,4.0,1
+Nakhon Pathom,19.0,0.0,1
+Nakhon Phanom,9.0,6.0,1
+Nakhon R.,7.0,1.0,1
+Nakhon S.T.,7.0,0.0,1
+Nakhon Sawan,12.0,0.0,1
+Nakuru,12.0,6.0,1
+Nam Dinh,17.0,3.0,1
+Namangan,7.0,2.0,1
+Name Unknown,17.0,7.0,1
+Namibe,9.0,6.0,1
+Nampula,12.0,0.0,1
+Nan,10.0,0.0,1
+Nandi,9.0,0.0,1
+Nangarhar,18.0,2.0,1
+Nangroe A.D.,11.0,0.0,1
+Napo,10.0,0.0,1
+Nara,12.0,0.0,1
+Narathiwat,10.0,0.0,1
+Narino,15.0,0.0,1
+Narok,9.0,5.0,1
+Naryn,25.0,11.0,1
+Nassarawa,9.0,0.0,1
+Navarra,12.0,7.0,1
+Navoiy,6.0,6.0,1
+Nayarit,24.0,0.0,1
+Neamt,12.0,6.0,1
+Nebraska,10.0,1.0,1
+Negeri Sembilan,5.0,0.0,1
+Nei Mongol Z.,13.0,4.0,1
+Nelson,19.0,0.0,1
+Netherlands,4.0,0.0,1
+Nevada,14.0,3.0,1
+Nevsehir,15.0,9.0,1
+New Hampshire,18.0,0.0,1
+New Jersey,12.0,0.0,1
+New Mexico,17.0,6.0,1
+New South Wales,6.0,10.0,1
+New York,12.0,0.0,1
+Nghe An,11.0,2.0,1
+Niassa,8.0,1.0,1
+Niederosterreich,7.0,3.0,1
+Niedersachsen,7.0,0.0,1
+Nigde,13.0,0.0,1
+Niger,8.0,3.0,1
+Niigata,16.0,0.0,1
+Nimba,13.0,2.0,1
+Ninewa,9.0,6.0,1
+Ningxia Huizu Z.,15.0,7.0,1
+Ninh Binh,14.0,1.0,1
+Ninh Thuan,19.0,4.0,1
+Nippes,7.0,0.0,1
+Nitra,24.0,6.0,1
+Nizhegorodskaya ,4.0,8.0,1
+Njombe,6.0,0.0,1
+Nong Bua Lamphu,7.0,1.0,1
+Nong Khai,9.0,6.0,1
+Nonthaburi,7.0,0.0,1
+Nord,23.0,7.0,3
+Nord - Ouest,9.0,0.0,1
+Nord Est,8.0,0.0,1
+Nord Ouest,27.0,2.0,1
+Nord Pas Cala,21.0,2.0,1
+Nord-troendelag,6.0,0.0,1
+Nordland,3.0,2.0,1
+Nordrhein W.,9.0,2.0,1
+North Bahr Ghaza,7.0,4.0,1
+North Carolina,8.0,0.0,1
+North Central,27.0,0.0,1
+North Dakota,21.0,3.0,1
+North East,11.0,11.0,1
+North Gonder,7.0,0.0,1
+North Kivu,17.0,0.0,1
+North Kordofa,5.0,6.0,1
+North Macedonia,21.0,0.0,1
+North Mindanao,16.0,0.0,1
+North Shewa R3,16.0,0.0,1
+North Shewa R4,7.0,1.0,1
+North Sinai,4.0,3.0,1
+North Ubangi,3.0,0.0,1
+North West,35.0,15.0,2
+North Western,13.0,0.0,1
+North Wollo,19.0,1.0,1
+North-West,7.0,0.0,1
+Northern,57.0,3.0,7
+Northern Cape,8.0,4.0,1
+Northern Darfur,3.0,8.0,1
+Northern Ireland,6.0,0.0,1
+Northern Region,10.0,0.0,1
+Northland,5.0,0.0,1
+Notio Aigaio,12.0,6.0,1
+Novosibirskaya ,7.0,5.0,1
+Nueva Segovia,4.0,0.0,1
+Nuevo Leon,18.0,10.0,1
+Nuqat Al Khams,8.0,5.0,1
+Nusatenggara B.,16.0,0.0,1
+Nusatenggara T.,21.0,0.0,1
+Nyamira,19.0,2.0,1
+Nyandarua,12.0,4.0,1
+Nyanga,6.0,6.0,1
+Nyeri,19.0,5.0,1
+Nyugat-Dunántúl,20.0,4.0,1
+Nzerekore,9.0,0.0,1
+Oaxaca,21.0,0.0,1
+Oberosterreich,4.0,1.0,1
+Ocotepeque,7.0,0.0,1
+Odes'ka,29.0,9.0,1
+Oerebro Laen,7.0,3.0,1
+Oestergoetlands,9.0,13.0,1
+Oestfold,17.0,8.0,1
+Ohangwena,6.0,5.0,1
+Ohio,18.0,2.0,1
+Okayama,18.0,0.0,1
+Okinawa,7.0,0.0,1
+Oklahoma,10.0,0.0,1
+Olancho,10.0,0.0,1
+Olt,31.0,7.0,1
+Omskaya ,9.0,6.0,1
+Omusati,10.0,3.0,1
+Ondo,6.0,0.0,1
+Ontario,10.0,1.0,1
+Ooita,13.0,0.0,1
+Oosaka,11.0,0.0,1
+Opolskie,19.0,4.0,1
+Oppland,9.0,1.0,1
+Oran,9.0,7.0,1
+Ordu,16.0,8.0,1
+Oregon,19.0,0.0,1
+Orellana,8.0,0.0,1
+Orenburgskaya ,8.0,10.0,1
+Oriental,14.0,10.0,1
+Orissa,10.0,3.0,1
+Orlovskaya ,6.0,7.0,1
+Oromia,14.0,3.0,1
+Oruro,3.0,5.0,1
+Osh,9.0,4.0,1
+Oshana,6.0,6.0,1
+Oshikoto,6.0,12.0,1
+Osmaniye,10.0,2.0,1
+Osun,5.0,2.0,1
+Otago,20.0,0.0,1
+Otdar Meanchey,6.0,0.0,1
+Ouaddai,5.0,6.0,1
+Ouaka,9.0,0.0,1
+Oudomxai,17.0,0.0,1
+Ouest,23.0,0.0,2
+Ouham,7.0,0.0,1
+Ouham Pendé,6.0,0.0,1
+Oulu,7.0,2.0,1
+Oum El Bouaghi,4.0,6.0,1
+Oyo,9.0,4.0,1
+P'yongan-bukto,9.0,0.0,1
+P'yongan-namdo,7.0,0.0,1
+P'yongyang-si,7.0,0.0,1
+Pahang,6.0,0.0,1
+Pailin,10.0,1.0,1
+Paktika,12.0,10.0,1
+Paktya,30.0,6.0,1
+Panamá,6.0,0.0,1
+Pando,21.0,0.0,1
+Panevezio,2.0,14.0,1
+Panjsher,24.0,1.0,1
+Papua,25.0,0.0,1
+Para,8.0,0.0,2
+Paraguari,9.0,2.0,1
+Paraiba,13.0,8.0,1
+Paraiso,7.0,0.0,1
+Parana,21.0,0.0,1
+Parwan,19.0,4.0,1
+Pasco,4.0,0.0,1
+Pathum Thani,15.0,0.0,1
+Pattani,8.0,0.0,1
+Pavlodarskaya,10.0,19.0,1
+Pays-de-la-Loire,19.0,0.0,1
+Paysandu,14.0,4.0,1
+País Vasco,10.0,1.0,1
+Peloponnisos,14.0,2.0,1
+Pennsylvania,9.0,0.0,1
+Penzenskaya ,4.0,15.0,1
+Perak,19.0,0.0,1
+Perlis,20.0,1.0,1
+Permskaya ,5.0,1.0,1
+Pernambuco,8.0,3.0,1
+Petén,8.0,0.0,1
+Phachinburi,17.0,3.0,1
+Phangnga,22.0,0.0,1
+Phatthalung,12.0,0.0,1
+Phayao,14.0,0.0,1
+Phetchabun,7.0,0.0,1
+Phetchaburi,12.0,0.0,1
+Phichit,20.0,0.0,1
+Phitsanulok,12.0,2.0,1
+Phnom Penh,8.0,4.0,1
+Phongsali,31.0,0.0,1
+Phra Nakhon S.A.,7.0,0.0,1
+Phrae,12.0,1.0,1
+Phu Tho,13.0,0.0,1
+Phu Yen,20.0,1.0,1
+Phuket,16.0,0.0,1
+Piaui,8.0,6.0,1
+Picardie,21.0,2.0,1
+Pichincha,7.0,0.0,1
+Piemonte,9.0,0.0,1
+Pinar Del Rio,15.0,0.0,1
+Piura,2.0,0.0,1
+Plateau,22.0,1.0,2
+Plateau Central,8.0,3.0,1
+Plateaux,12.0,0.0,2
+Podkarpackie,19.0,1.0,1
+Podlaskie,11.0,9.0,1
+Poitou-Charentes,20.0,0.0,1
+Poltavs'ka,20.0,5.0,1
+Pomeroon,8.0,0.0,1
+Pomorskie,10.0,0.0,1
+Pool,14.0,0.0,1
+Port Said,1.0,16.0,1
+Portugal,15.0,25.0,1
+Portuguesa,12.0,1.0,1
+Potosi,3.0,2.0,1
+Prachuap K.,14.0,1.0,1
+Praha,24.0,4.0,1
+Prahova,23.0,18.0,1
+Preah Sihanouk,9.0,0.0,1
+Preah Vihear,3.0,3.0,1
+Presidente Hayes,22.0,6.0,1
+Presov,9.0,5.0,1
+Prey Veng,12.0,0.0,1
+Primorskiy Kray,6.0,0.0,1
+Prince Edward,15.0,1.0,1
+Provence,10.0,0.0,1
+Pskovskaya ,6.0,0.0,1
+Puebla,25.0,0.0,1
+Puerto Rico,15.0,0.0,1
+Puglia,16.0,0.0,1
+Pulau Pinang,21.0,0.0,1
+Punjab,47.0,10.0,2
+Puno,13.0,5.0,1
+Puntarenas,11.0,0.0,1
+Pursat,14.0,2.0,1
+Pwani,11.0,0.0,1
+Qadissiya,9.0,2.0,1
+Qinghai Sheng,14.0,3.0,1
+Quang Binh,12.0,4.0,1
+Quang Nam,21.0,1.0,1
+Quang Ngai,16.0,0.0,1
+Quang Ninh,15.0,0.0,1
+Quang Tri,19.0,2.0,1
+Quassim,12.0,0.0,1
+Queensland,10.0,0.0,1
+Queretaro,22.0,11.0,1
+Quiché,20.0,0.0,1
+Quindio,17.0,0.0,1
+Quintana Roo,11.0,0.0,1
+Québec,19.0,0.0,1
+Rabat,6.0,6.0,1
+Rajasthan,13.0,9.0,1
+Rajshahi,12.0,3.0,1
+Rakhine,5.0,0.0,1
+Rangpur,11.0,0.0,1
+Ranong,20.0,5.0,1
+Raqqa,7.0,4.0,1
+Ras Al Khaimah,18.0,4.0,1
+Ratanak Kiri,3.0,4.0,1
+Ratchaburi,11.0,0.0,1
+Rayong,11.0,0.0,1
+Region 14,6.0,12.0,1
+Region wallonne,7.0,0.0,1
+Región de Murcia,24.0,9.0,1
+Relizane,13.0,8.0,1
+Republika Srpska,3.0,0.0,1
+Rheinland-Pfalz,12.0,0.0,1
+Rhone-Alpes,7.0,4.0,1
+Riau,8.0,0.0,1
+Rio De Janeiro,19.0,1.0,1
+Rio Grande N,16.0,2.0,1
+Rio Grande S,14.0,5.0,1
+Rio Negro,20.0,12.0,2
+Rio San Juan,15.0,0.0,1
+Risaralda,15.0,0.0,1
+Rivas,6.0,0.0,1
+Rivera,6.0,3.0,1
+Rivers,17.0,5.0,1
+Rivnens'ka,9.0,0.0,1
+Riyad,23.0,0.0,1
+Rize,8.0,0.0,1
+Rocha,11.0,0.0,1
+Rogaland,8.0,4.0,1
+Roi Et,8.0,2.0,1
+Rondonia,7.0,0.0,1
+Roraima,23.0,0.0,1
+Rostovskaya ,20.0,1.0,1
+Rukwa,8.0,0.0,1
+Ruvuma,3.0,0.0,1
+Rwanda East,14.0,1.0,1
+Rwanda West,13.0,0.0,1
+Ryazanskaya ,5.0,11.0,1
+Sa Kaeo,8.0,2.0,1
+Saarland,5.0,0.0,1
+Sabah,6.0,0.0,1
+Sabaragamuwa,7.0,0.0,1
+Sachsen,19.0,6.0,1
+Sachsen-Anhalt,21.0,6.0,1
+Saga,14.0,0.0,1
+Sagaing,2.0,1.0,1
+Sahel,4.0,4.0,1
+Saida,8.0,8.0,1
+Saint louis,1.0,4.0,1
+Saitama,18.0,0.0,1
+Sakarya,18.0,4.0,1
+Sakon Nakhon,9.0,0.0,1
+Salah al-Din,16.0,4.0,1
+Salaj,15.0,9.0,1
+Salamat,11.0,3.0,1
+Salavan,22.0,4.0,1
+Salta,6.0,5.0,1
+Salto,13.0,0.0,1
+Salzburg,6.0,0.0,1
+Samangan,7.0,2.0,1
+Samarkand,13.0,5.0,1
+Samarskaya ,8.0,20.0,1
+Samergelo,13.0,0.0,1
+Samsun,22.0,4.0,1
+Samtskhe J.,18.0,12.0,1
+Samut Prakarn,22.0,0.0,1
+Samut Sakhon,19.0,0.0,1
+Samut Songkham,19.0,0.0,1
+San Jose,22.0,3.0,2
+San Luis,11.0,4.0,1
+San Luis Potosi,12.0,14.0,1
+San Martín,20.0,0.0,1
+San Pedro,21.0,0.0,1
+Sana'a,2.0,8.0,1
+Sancti Spiritus,13.0,0.0,1
+Sanliurfa,11.0,12.0,1
+Santa Barbara,12.0,0.0,1
+Santa Catarina,22.0,0.0,1
+Santa Cruz,11.0,0.0,2
+Santa Elena,12.0,10.0,1
+Santa Fe,16.0,0.0,1
+Santander,12.0,0.0,1
+Santiago De Cuba,8.0,0.0,1
+Santiago Estero,13.0,8.0,1
+Sao Paulo,17.0,0.0,1
+Sar-e-Pul,8.0,4.0,1
+Saraburi,8.0,0.0,1
+Saratovskaya ,9.0,20.0,1
+Sarawak,17.0,0.0,1
+Sardegna,19.0,1.0,1
+Saskatchewan,17.0,2.0,1
+Sassandra,11.0,2.0,1
+Satu Mare,25.0,4.0,1
+Satun,21.0,1.0,1
+Sava,21.0,0.0,1
+Savanes,17.0,1.0,2
+Savannakhet,13.0,3.0,1
+Schleswig,14.0,2.0,1
+Scotland,14.0,2.0,1
+Segen Peoples,18.0,9.0,1
+Segou,8.0,2.0,1
+Selangor,4.0,0.0,1
+Selenge,6.0,11.0,1
+Selti,9.0,3.0,1
+Semenawi K.B.,3.0,0.0,1
+Semnan,10.0,0.0,1
+Sennar,4.0,9.0,1
+Serbia,12.0,5.0,1
+Sergipe,7.0,11.0,1
+Setif,5.0,10.0,1
+Severnaya,17.0,2.0,1
+Severo,15.0,12.0,1
+Severocesky,10.0,2.0,1
+Severomoravsky,17.0,12.0,1
+Sfax,22.0,0.0,1
+Shaanxi Sheng,21.0,8.0,1
+Shabelle Dhexe,5.0,7.0,1
+Shabelle Hoose,12.0,5.0,1
+Shaki-Zaqatala,27.0,2.0,1
+Shan (E),19.0,0.0,1
+Shan (N),6.0,0.0,1
+Shan (S),4.0,0.0,1
+Shandong Sheng,12.0,0.0,1
+Shanghai Shi,16.0,0.0,1
+Shanxi Sheng,17.0,8.0,1
+Sharjah,16.0,3.0,1
+Sheka,5.0,0.0,1
+Shida Kartli,22.0,6.0,1
+Shinyanga,8.0,6.0,1
+Si Saket,9.0,2.0,1
+Siauliu,4.0,13.0,1
+Siaya,12.0,3.0,1
+Sibiu,15.0,6.0,1
+Sichuan Sheng,14.0,2.0,1
+Sicilia,7.0,0.0,1
+Sidama,11.0,7.0,1
+Sidi Bel Abbes,12.0,5.0,1
+Sidi Bouz,8.0,3.0,1
+Siem Reap,8.0,0.0,1
+Siga,15.0,0.0,1
+Siirt,5.0,4.0,1
+Sikasso,11.0,0.0,1
+Sikkim,23.0,2.0,1
+Sila,8.0,4.0,1
+Siliana,7.0,9.0,1
+Simane,17.0,0.0,1
+Simiyu,16.0,5.0,1
+Sinaloa,12.0,11.0,1
+Sindh,2.0,0.0,1
+Singburi,17.0,2.0,1
+Singida,7.0,6.0,1
+Sinop,20.0,11.0,1
+Sirdarya,10.0,4.0,1
+Sirnak,6.0,5.0,1
+Sivas,26.0,8.0,1
+Sizuoka,11.0,0.0,1
+Skaane Laen,12.0,7.0,1
+Skikda,5.0,9.0,1
+Slaskie,21.0,6.0,1
+Slovenia,8.0,0.0,1
+Smolenskaya ,5.0,2.0,1
+Soc Trang,3.0,0.0,1
+Soccsksargen,15.0,0.0,1
+Soedermanlands,9.0,13.0,1
+Soer-Troendelag,6.0,0.0,1
+Sofala,6.0,4.0,1
+Sofia,11.0,0.0,1
+Sogd,11.0,6.0,1
+Sogn og Fjordane,5.0,2.0,1
+Sokoto,4.0,2.0,1
+Son La,20.0,0.0,1
+Songkhla,10.0,0.0,1
+Sonora,19.0,4.0,1
+Soriano,13.0,8.0,1
+Souk-Ahras,5.0,10.0,1
+Souss,12.0,2.0,1
+Sousse,14.0,5.0,1
+South Australia,5.0,13.0,1
+South Carolina,6.0,0.0,1
+South Dakota,21.0,3.0,1
+South Drylands,13.0,0.0,1
+South Eastern,19.0,2.0,1
+South Gonder,9.0,3.0,1
+South Highlands,14.0,0.0,2
+South Kivu,11.0,0.0,1
+South Kordofa,13.0,5.0,1
+South Omo,19.0,1.0,1
+South Tagalog,24.0,0.0,1
+South Ubangi,5.0,0.0,1
+South West Shewa,9.0,0.0,1
+South Wollo,19.0,0.0,1
+South-East,9.0,26.0,1
+Southern,33.0,25.0,5
+Southern Area,5.0,0.0,1
+Southern Darfur,8.0,6.0,1
+Southern Finland,12.0,3.0,1
+Southern Region,11.0,4.0,1
+Southland,26.0,0.0,1
+Stavropolskiy,23.0,2.0,1
+Steiermark,5.0,0.0,1
+Sterea Ellada,10.0,4.0,1
+Stockholms Laen,9.0,15.0,1
+Stredocesky,22.0,4.0,1
+Stung Treng,1.0,0.0,1
+Suceava,10.0,3.0,1
+Sucre,10.0,0.0,2
+Sucumbios,2.0,0.0,1
+Sud,13.0,1.0,2
+Sud - Ouest,11.0,7.0,1
+Sud Est,21.0,0.0,1
+Sud-ouest,8.0,0.0,1
+Suez,4.0,8.0,1
+Sukhothai,6.0,3.0,1
+Sulawesi Barat,14.0,0.0,1
+Sulawesi Selatan,14.0,0.0,1
+Sulawesi T.,19.0,0.0,1
+Sulawesi Tengah,17.0,0.0,1
+Sulawesi Utara,16.0,0.0,1
+Sulaymaniyah,6.0,4.0,1
+Sumatera Barat,7.0,0.0,1
+Sumatera Selatan,12.0,0.0,1
+Sumatera Utara,12.0,0.0,1
+Sums'ka,8.0,7.0,1
+Suphanburi,14.0,2.0,1
+Surat Thani,17.0,0.0,1
+Surin,9.0,2.0,1
+Surkhandarya,6.0,3.0,1
+Svay Rieng,17.0,4.0,1
+Sverdlovskaya ,5.0,5.0,1
+Swietokrzyskie,14.0,6.0,1
+Switzerland,10.0,0.0,1
+Sylhet,17.0,4.0,1
+Tabasco,11.0,0.0,1
+Tabora,9.0,6.0,1
+Tabuk,2.0,0.0,1
+Tachira,15.0,0.0,1
+Tacuarembo,6.0,3.0,1
+Tadla - Azilal,7.0,4.0,1
+Tadzhikistan T.,6.0,3.0,1
+Taegu,12.0,0.0,1
+Taejon,9.0,0.0,1
+Tafiela,5.0,8.0,1
+Tahoua,3.0,6.0,1
+Taita Taveta,12.0,6.0,1
+Taiwan Sheng,22.0,0.0,1
+Tak,3.0,0.0,1
+Takeo,9.0,2.0,1
+Takhar,9.0,1.0,1
+Talas,16.0,4.0,1
+Tamaulipas,13.0,9.0,1
+Tambacounda,6.0,7.0,1
+Tambovskaya ,5.0,6.0,1
+Tamil Nadu,7.0,2.0,1
+Tandjile,4.0,0.0,1
+Tanga,10.0,9.0,1
+Tanganyika,9.0,0.0,1
+Tanger - Tétouan,8.0,8.0,1
+Taninthayi,39.0,0.0,1
+Taraba,8.0,0.0,1
+Taranaki,11.0,0.0,1
+Tarhunah,6.0,9.0,1
+Tarija,14.0,3.0,1
+Tartous,11.0,6.0,1
+Tashauz,3.0,2.0,1
+Tashkent,7.0,4.0,1
+Tasmania,11.0,0.0,1
+Tatarstan Rep.,3.0,11.0,1
+Taurages,2.0,12.0,1
+Tay Ninh,10.0,0.0,1
+Taza,11.0,6.0,1
+Tebessa,4.0,3.0,1
+Tehran,23.0,0.0,1
+Tekirdag,20.0,12.0,1
+Telemark,8.0,10.0,1
+Teleorman,33.0,7.0,1
+Telsiu,3.0,12.0,1
+Tennessee,8.0,0.0,1
+Terengganu,6.0,0.0,1
+Ternopil's'ka,18.0,6.0,1
+Tete,9.0,3.0,1
+Texas,15.0,0.0,1
+Thai Binh,17.0,2.0,1
+Thai Nguyen,17.0,0.0,1
+Thanh Hoa,13.0,0.0,1
+Tharaka,5.0,9.0,1
+Thessalia,17.0,2.0,1
+Thi-Qar,8.0,4.0,1
+Thua Thien - Hue,16.0,0.0,1
+Thueringen,18.0,6.0,1
+Tianjin Shi,15.0,0.0,1
+Tiaret,11.0,7.0,1
+Tiba,17.0,0.0,1
+Tien Giang,6.0,0.0,1
+Tillaberi,3.0,5.0,1
+Timis,25.0,5.0,1
+Timor-Leste,19.0,0.0,1
+Tipaza,11.0,4.0,1
+Tirol,5.0,0.0,1
+Tissemsilt,11.0,8.0,1
+Tizi Ouzou,12.0,9.0,1
+Tlaxcala,17.0,7.0,1
+Tlemcen,11.0,8.0,1
+To'v,9.0,14.0,1
+Tocantins,6.0,0.0,1
+Tokat,30.0,9.0,1
+Tokusima,19.0,0.0,1
+Tolima,16.0,0.0,1
+Tomskaya ,3.0,0.0,1
+Tookyoo,12.0,0.0,1
+Toscana,8.0,0.0,1
+Totigi,18.0,0.0,1
+Tottori,12.0,0.0,1
+Toyama,17.0,0.0,1
+Tra Vinh,2.0,0.0,1
+Trabzon,11.0,1.0,1
+Trad,23.0,0.0,1
+Trang,13.0,0.0,1
+Trans Nzoia,36.0,0.0,1
+Treinta Y Tres,8.0,4.0,1
+Trencin,11.0,15.0,1
+Trentino,6.0,0.0,1
+Tripoli,11.0,8.0,1
+Tripura,8.0,0.0,1
+Trnava,23.0,6.0,1
+Trujillo,20.0,1.0,1
+Tsachilas,4.0,3.0,1
+Tshopo,4.0,0.0,1
+Tubruq (tobruk),2.0,4.0,1
+Tucuman,9.0,0.0,1
+Tulcea,29.0,3.0,1
+Tulskaya ,11.0,7.0,1
+Tumbes,3.0,10.0,1
+Tunceli,24.0,0.0,1
+Tungurahua,9.0,0.0,1
+Tuyen Quang,11.0,0.0,1
+Tverskaya ,12.0,2.0,1
+Tyumenskaya ,10.0,1.0,1
+Tyva Rep.,8.0,6.0,1
+Uasin Gishu,33.0,4.0,1
+Ubon Ratchathani,8.0,6.0,1
+Ucayali,14.0,0.0,1
+Udmurtiya Rep.,3.0,8.0,1
+Udon Thani,9.0,1.0,1
+Ulyanovskaya ,6.0,18.0,1
+Umbria,18.0,0.0,1
+Unit unavailable,236.0,32.0,12
+Unity,6.0,15.0,1
+Upper Demerara,17.0,0.0,1
+Upper East,6.0,1.0,1
+Upper Nile,4.0,10.0,1
+Upper Takutu,29.0,5.0,1
+Upper West,7.0,1.0,1
+Uppsala Laen,9.0,15.0,1
+Uruzgan,6.0,0.0,1
+Usak,15.0,4.0,1
+Ustordynskiy BO,10.0,4.0,1
+Utah,10.0,1.0,1
+Utenos,2.0,8.0,1
+Uthai Thani,3.0,1.0,1
+Uttar Pradesh,21.0,4.0,1
+Uttaradit,10.0,0.0,1
+Uttarakhand,24.0,0.0,1
+Uva,28.0,0.0,1
+Vaermlands Laen,8.0,7.0,1
+Vaesterbottens,6.0,0.0,1
+Vaesternorrlands,8.0,0.0,1
+Vaestmanlands,6.0,7.0,1
+Vaestra G.L.,10.0,6.0,1
+Vakinankaratra,13.0,0.0,1
+Valle,5.0,0.0,1
+Valle D'aosta,4.0,2.0,1
+Valle Del Cauca,11.0,0.0,1
+Valparaiso,10.0,8.0,1
+Van,24.0,8.0,1
+Vaslui,15.0,12.0,1
+Vatovavy F.,32.0,0.0,1
+Vaupes,7.0,0.0,1
+Veneto,11.0,1.0,1
+Veracruz,26.0,0.0,1
+Veraguas,8.0,4.0,1
+Verapaz,12.0,0.0,1
+Vermont,13.0,0.0,1
+Vest-Agder,9.0,9.0,1
+Vestfold,10.0,17.0,1
+Victoria,6.0,12.0,1
+Vientiane,12.0,0.0,1
+Vientiane cap.,9.0,0.0,1
+Vihiga,13.0,0.0,1
+Vilcea,19.0,2.0,1
+Villa Clara,11.0,0.0,1
+Vilniaus,2.0,7.0,1
+Vinh Long,10.0,1.0,1
+Vinh Phuc,23.0,1.0,1
+Vinnyts'ka,20.0,5.0,1
+Virginia,14.0,0.0,1
+Vitebsk,6.0,5.0,1
+Vlaams Gewest,7.0,0.0,1
+Vladimirskaya ,4.0,9.0,1
+Volgogradskaya ,10.0,0.0,1
+Vologodskaya ,11.0,1.0,1
+Volta,14.0,1.0,1
+Volyns'ka,10.0,4.0,1
+Voreio Aigaio,17.0,3.0,1
+Voronezhskaya ,5.0,10.0,1
+Vostochno,21.0,10.0,1
+Vrancea,16.0,19.0,1
+Vychodocesky,18.0,6.0,1
+Wadi Fira,3.0,6.0,1
+Wag Himra,9.0,3.0,1
+Waikato,9.0,0.0,1
+Wakayama,14.0,0.0,1
+Wales,13.0,0.0,1
+Wanganui,14.0,0.0,1
+Warab,9.0,0.0,1
+Wardak,15.0,14.0,1
+Warminsko M.,7.0,6.0,1
+Washington,17.0,0.0,1
+Wassit,13.0,6.0,1
+Wellington,9.0,0.0,1
+West,66.0,7.0,5
+West Arsi,9.0,1.0,1
+West Australia,7.0,7.0,1
+West Azarbayejan,21.0,0.0,1
+West Bank,4.0,7.0,1
+West Bengal,12.0,0.0,1
+West Cape,9.0,9.0,1
+West Darfur,7.0,4.0,1
+West Equatoria,3.0,0.0,1
+West Finland,9.0,4.0,1
+West Gojam,9.0,2.0,1
+West Harerge,13.0,8.0,1
+West Highlands,15.0,0.0,2
+West Nile,2.0,0.0,1
+West Pokot,20.0,3.0,1
+West Shewa,5.0,2.0,1
+West Virginia,10.0,0.0,1
+West Visayas,17.0,0.0,1
+West Wellega,7.0,0.0,1
+Western,24.0,4.0,3
+Westland,26.0,0.0,1
+White Nile,2.0,2.0,1
+Wielkopolskie,19.0,2.0,1
+Wisconsin,16.0,1.0,1
+Wolayita,10.0,0.0,1
+Woqooyi Galbeed,8.0,6.0,1
+Woroba,7.0,0.0,1
+Wyoming,16.0,12.0,1
+Xaignabouli,5.0,1.0,1
+Xekong,15.0,5.0,1
+Xentii,5.0,8.0,1
+Xiangkhouang,14.0,2.0,1
+Xinjiang U.Z.,1.0,8.0,1
+Xizang Zizhiqu,8.0,4.0,1
+Yafran (yefren),4.0,6.0,1
+Yala,19.0,0.0,1
+Yalova,33.0,2.0,1
+Yamagata,22.0,0.0,1
+Yamaguti,19.0,0.0,1
+Yamanasi,15.0,0.0,1
+Yanggang-do,9.0,0.0,1
+Yangon,17.0,3.0,1
+Yaracuy,16.0,0.0,1
+Yaroslavskaya ,13.0,1.0,1
+Yasothon,10.0,3.0,1
+Yazd,9.0,0.0,1
+Yem,6.0,1.0,1
+Yen Bai,18.0,0.0,1
+Yevreyskaya A. ,9.0,1.0,1
+Yobe,9.0,4.0,1
+Yoro,14.0,0.0,1
+Yozgat,14.0,10.0,1
+Ysyk-Kol,8.0,18.0,1
+Yucatan,11.0,0.0,1
+Yujno K.,14.0,4.0,1
+Yukhari Garabakh,25.0,0.0,1
+Yunnan Sheng,20.0,0.0,1
+Zabul,5.0,0.0,1
+Zacatecas,17.0,7.0,1
+Zachodnio,9.0,3.0,1
+Zaghouan,8.0,9.0,1
+Zakarpats'ka,17.0,8.0,1
+Zambezi,10.0,19.0,1
+Zambezia,10.0,0.0,1
+Zamboanga,21.0,0.0,1
+Zamfara,11.0,3.0,1
+Zanjan,20.0,6.0,1
+Zanzan,12.0,0.0,1
+Zapadno K.,17.0,0.0,1
+Zapadocesky,4.0,9.0,1
+Zaporiz'ka,28.0,6.0,1
+Zarqa,3.0,4.0,1
+Zeleitin,12.0,8.0,1
+Zhejiang Sheng,18.0,0.0,1
+Zhytomyrs'ka,9.0,1.0,1
+Zilna,12.0,4.0,1
+Zinder,4.0,7.0,1
+Zona No Del.,9.0,7.0,1
+Zonguldak,13.0,9.0,1
+Zou,9.0,2.0,1
+Zulia,23.0,3.0,1
+eSwatini,13.0,5.0,1
+Észak-Alföld,18.0,3.0,1
+Észak-Magyar.,23.0,7.0,1
+Al Bayda,0.0,6.0,1
+Alexandria,0.0,3.0,1
+Amanat Al Asimah,0.0,4.0,1
+Amran,0.0,4.0,1
+Bukhara,0.0,2.0,1
+Dakahlia,0.0,1.0,1
+Hajjah,0.0,1.0,1
+Ismailia,0.0,6.0,1
+Khorezm,0.0,4.0,1
+Sa'ada,0.0,1.0,1
+Sabha,0.0,8.0,1
+Sedhiou,0.0,1.0,1
+Taizz,0.0,6.0,1
+Thies,0.0,9.0,1
+Ziguinchor,0.0,4.0,1
+A Dakhliya,0.0,0.0,1
+A Sharqiya,0.0,0.0,1
+Absheron,0.0,0.0,1
+Abyan,0.0,0.0,1
+Aden,0.0,0.0,1
+Adrar,0.0,0.0,2
+Afar 2,0.0,0.0,1
+Afar 4,0.0,0.0,1
+Afar 5,0.0,0.0,1
+Afder,0.0,0.0,1
+Agadez,0.0,0.0,1
+Aginskiy B.A.O.,0.0,0.0,1
+Agnuak,0.0,0.0,1
+Ajdabiya,0.0,0.0,1
+Al Dhahira,0.0,0.0,1
+Al Jawf,0.0,0.0,1
+Al Jufrah,0.0,0.0,1
+Al Kufrah,0.0,0.0,1
+Al Maharah,0.0,0.0,1
+Al Wusta,0.0,0.0,1
+Alaska,0.0,0.0,1
+Almaty City area,0.0,0.0,1
+Altay Rep.,0.0,0.0,1
+Amapa,0.0,0.0,1
+Andorra,0.0,0.0,1
+Antigua,0.0,0.0,1
+Antofagasta,0.0,0.0,1
+Aqaba,0.0,0.0,1
+Archipelagos,0.0,0.0,1
+Area under NA,0.0,0.0,1
+Area under NA 1,0.0,0.0,1
+Arica,0.0,0.0,1
+Arkhangelskaya ,0.0,0.0,1
+Ash Shati,0.0,0.0,1
+Assaba,0.0,0.0,1
+Assiut,0.0,0.0,1
+Aswan,0.0,0.0,1
+Atacama,0.0,0.0,1
+Atlantique,0.0,0.0,1
+Atsinanana,0.0,0.0,1
+Australian C.T.,0.0,0.0,1
+Awbari (ubari),0.0,0.0,1
+Awdal,0.0,0.0,1
+B. California S.,0.0,0.0,1
+Badakhshoni Kuni,0.0,0.0,1
+Bahrain,0.0,0.0,1
+Bakool,0.0,0.0,1
+Bamako,0.0,0.0,1
+Bamingui,0.0,0.0,1
+Banadir,0.0,0.0,1
+Barbados,0.0,0.0,1
+Barh-El-Gazal,0.0,0.0,1
+Bari,0.0,0.0,1
+Barima Waini,0.0,0.0,1
+Batken,0.0,0.0,1
+Bayan-O'lgii,0.0,0.0,1
+Bayanxongor,0.0,0.0,1
+Bayelsa,0.0,0.0,1
+Bechar,0.0,0.0,1
+Behera,0.0,0.0,1
+Beni Suef,0.0,0.0,1
+Berlin,0.0,0.0,1
+Bioko Norte,0.0,0.0,1
+Bioko Sur,0.0,0.0,1
+Biombo,0.0,0.0,1
+Bishkek,0.0,0.0,1
+Bocas del Toro,0.0,0.0,1
+Boeny,0.0,0.0,1
+Borkou,0.0,0.0,1
+Brakna,0.0,0.0,1
+Bremen,0.0,0.0,1
+Brokopondo,0.0,0.0,1
+Brunei,0.0,0.0,1
+Bulawayo,0.0,0.0,1
+Buryatiya Rep.,0.0,0.0,1
+Cabinda,0.0,0.0,1
+Cacheu,0.0,0.0,1
+Cairo,0.0,0.0,1
+Callao,0.0,0.0,1
+Cape Verde,0.0,0.0,1
+Capital Region,0.0,0.0,1
+Caqueta,0.0,0.0,1
+Carabobo,0.0,0.0,1
+Carlos Ibañez,0.0,0.0,1
+Cayenne,0.0,0.0,1
+Cayman Islands,0.0,0.0,1
+Centro Sur,0.0,0.0,1
+Chin,0.0,0.0,1
+China/India,0.0,0.0,1
+Chitinskaya ,0.0,0.0,1
+Chubut,0.0,0.0,1
+Chukotskiy Okrug,0.0,0.0,1
+Coastal,0.0,0.0,1
+Colón,0.0,0.0,1
+Commewijne,0.0,0.0,1
+Comoros,0.0,0.0,1
+Conakry,0.0,0.0,1
+Coquimbo,0.0,0.0,1
+Coronie,0.0,0.0,1
+Cuvette,0.0,0.0,1
+Cuvette Ovest,0.0,0.0,1
+Cuyuni,0.0,0.0,1
+Dakhlet N.,0.0,0.0,1
+Damietta,0.0,0.0,1
+Dar es salaam,0.0,0.0,1
+Debubawi K.B.,0.0,0.0,1
+Delta Amacuro,0.0,0.0,1
+Dhofar,0.0,0.0,1
+Distrito Capital,0.0,0.0,1
+Djibouti,0.0,0.0,1
+Dki Jakarta,0.0,0.0,1
+Dominica,0.0,0.0,1
+Doolo,0.0,0.0,1
+Dornod,0.0,0.0,1
+Dornogovi,0.0,0.0,1
+Dubai,0.0,0.0,1
+Dundgovi,0.0,0.0,1
+East Equatoria,0.0,0.0,1
+East New Britain,0.0,0.0,1
+Eastern Province,0.0,0.0,1
+El Bayadh,0.0,0.0,1
+Emberá,0.0,0.0,1
+Enga,0.0,0.0,1
+Ennedi Est,0.0,0.0,1
+Ennedi Ouest,0.0,0.0,1
+Equateur,0.0,0.0,1
+Erongo,0.0,0.0,1
+Evenkiyskiy O.,0.0,0.0,1
+Faroe Islands,0.0,0.0,1
+Fayoum,0.0,0.0,1
+Fiji,0.0,0.0,1
+Finnmark,0.0,0.0,1
+French Polynesia,0.0,0.0,1
+Fujairah,0.0,0.0,1
+Galapagos,0.0,0.0,1
+Galgaduud,0.0,0.0,1
+Gao,0.0,0.0,1
+Garissa,0.0,0.0,1
+Gaza Strip,0.0,0.0,1
+Gbarpolu,0.0,0.0,1
+Gedio,0.0,0.0,1
+Ghadamis,0.0,0.0,1
+Ghanzi,0.0,0.0,1
+Gharbia,0.0,0.0,1
+Ghardaia,0.0,0.0,1
+Gharyan,0.0,0.0,1
+Giza,0.0,0.0,1
+Govi-Altai,0.0,0.0,1
+Govisu'mber,0.0,0.0,1
+Grand Gedeh,0.0,0.0,1
+Grenada,0.0,0.0,1
+Guadeloupe,0.0,0.0,1
+Guainia,0.0,0.0,1
+Guam,0.0,0.0,1
+Guaviare,0.0,0.0,1
+Guelmim,0.0,0.0,1
+Gulf,0.0,0.0,1
+Hadramaut,0.0,0.0,1
+Hamburg,0.0,0.0,1
+Harare,0.0,0.0,1
+Hardap,0.0,0.0,1
+Haut-Mbomou,0.0,0.0,1
+Haut-Ogooue,0.0,0.0,1
+Haute-Kotto,0.0,0.0,1
+Hawaii,0.0,0.0,1
+Heard Island,0.0,0.0,1
+Hong Kong,0.0,0.0,1
+Ica,0.0,0.0,1
+Iceland,0.0,0.0,1
+Ilemi triangle,0.0,0.0,1
+Illizi,0.0,0.0,1
+Inchiri,0.0,0.0,1
+Inchon,0.0,0.0,1
+Isiolo,0.0,0.0,1
+Islamabad,0.0,0.0,1
+Isle of Man,0.0,0.0,1
+Jarar,0.0,0.0,1
+Kafr El-Shikh,0.0,0.0,1
+Kalyoubia,0.0,0.0,1
+Kamchatskaya ,0.0,0.0,1
+Kanem,0.0,0.0,1
+Karas,0.0,0.0,1
+Karelya Rep.,0.0,0.0,1
+Kasai,0.0,0.0,1
+Kaskazini Pemba,0.0,0.0,1
+Kaskazini Unguja,0.0,0.0,1
+Kgalagadi,0.0,0.0,1
+Khabarovskiy,0.0,0.0,1
+KhantyMansyiskiy,0.0,0.0,1
+Khomas,0.0,0.0,1
+Kidal,0.0,0.0,1
+Kientem,0.0,0.0,1
+Kingman Reef,0.0,0.0,1
+Kiribati,0.0,0.0,1
+Komi Rep.,0.0,0.0,1
+Korahe,0.0,0.0,1
+Koryakskiy Okrug,0.0,0.0,1
+Kuala Lumpur,0.0,0.0,1
+Kuanza Norte,0.0,0.0,1
+Kuna Yala,0.0,0.0,1
+Kunene,0.0,0.0,1
+Kuril islands,0.0,0.0,1
+Kusini Pemba,0.0,0.0,1
+Kusini Unguja,0.0,0.0,1
+Kuwait,0.0,0.0,1
+Lago niassa,0.0,0.0,1
+Lagos,0.0,0.0,1
+Lambayeque,0.0,0.0,1
+Lapland,0.0,0.0,1
+Laâyoune,0.0,0.0,1
+Lekoumou,0.0,0.0,1
+Liben,0.0,0.0,1
+Likouala,0.0,0.0,1
+Lima,0.0,0.0,1
+Litoral,0.0,0.0,1
+Lobaye,0.0,0.0,1
+Loreto,0.0,0.0,1
+Lunda Norte,0.0,0.0,1
+Lunda Sul,0.0,0.0,1
+Luxor,0.0,0.0,1
+Ma'an,0.0,0.0,1
+Ma'tan al-Sarra,0.0,0.0,1
+Madinah,0.0,0.0,1
+Madre de Dios,0.0,0.0,1
+Magadanskaya ,0.0,0.0,1
+Magallanes,0.0,0.0,1
+Mai-Ndombe,0.0,0.0,1
+Makkah,0.0,0.0,1
+Malta,0.0,0.0,1
+Mandera,0.0,0.0,1
+Mangistauskaya,0.0,0.0,1
+Manus,0.0,0.0,1
+Marowijne,0.0,0.0,1
+Marsabit,0.0,0.0,1
+Martinique,0.0,0.0,1
+Matrouh,0.0,0.0,1
+Mauritius,0.0,0.0,1
+Mayotte,0.0,0.0,1
+Mbomou,0.0,0.0,1
+Melaky,0.0,0.0,1
+Menia,0.0,0.0,1
+Menoufia,0.0,0.0,1
+Micronesia,0.0,0.0,1
+Miranda,0.0,0.0,1
+Mjini Magharibi,0.0,0.0,1
+Mombasa,0.0,0.0,1
+Mono,0.0,0.0,1
+Morona Santiago,0.0,0.0,1
+Moskva,0.0,0.0,1
+Moxico,0.0,0.0,1
+Moyen-Ogooue,0.0,0.0,1
+Mudug,0.0,0.0,1
+Murmanskaya ,0.0,0.0,1
+Murzuq,0.0,0.0,1
+Musandam,0.0,0.0,1
+Muscat,0.0,0.0,1
+N'Djamena,0.0,0.0,1
+NW Territories,0.0,0.0,1
+Naama,0.0,0.0,1
+Najran,0.0,0.0,1
+Nana-Gribizi,0.0,0.0,1
+Nana-Mambéré,0.0,0.0,1
+Neembucu,0.0,0.0,1
+Nenetskiy Okrug,0.0,0.0,1
+Netherlands A.,0.0,0.0,1
+Neuquen,0.0,0.0,1
+New Brunswick,0.0,0.0,1
+New Ireland,0.0,0.0,1
+New Valley,0.0,0.0,1
+Newfoundland,0.0,0.0,1
+Ngamiland,0.0,0.0,1
+Ngounie,0.0,0.0,1
+Ngöbe Buglé,0.0,0.0,1
+Niamey,0.0,0.0,1
+Niari,0.0,0.0,1
+Nickerie,0.0,0.0,1
+Nile,0.0,0.0,1
+Nimroz,0.0,0.0,1
+Niue,0.0,0.0,1
+No Name,0.0,0.0,1
+Nogob,0.0,0.0,1
+Nordgronland,0.0,0.0,1
+Norrbottens Laen,0.0,0.0,1
+North Frontier,0.0,0.0,1
+North Solomons,0.0,0.0,1
+North Territory,0.0,0.0,1
+Nouakchott,0.0,0.0,1
+Nova Scotia,0.0,0.0,1
+Novgorodskaya ,0.0,0.0,1
+Nuer,0.0,0.0,1
+Nueva Esparta,0.0,0.0,1
+Nugaal,0.0,0.0,1
+Nunavut,0.0,0.0,1
+Nuristan,0.0,0.0,1
+O'mnogovi,0.0,0.0,1
+O'vorxangai,0.0,0.0,1
+Ogooue-Ivindo,0.0,0.0,1
+Ogooue-Maritime,0.0,0.0,1
+Ogooue-lolo,0.0,0.0,1
+Ogun,0.0,0.0,1
+Oio,0.0,0.0,1
+Omaheke,0.0,0.0,1
+Ombella M'Poko,0.0,0.0,1
+Orxon,0.0,0.0,1
+Oslo,0.0,0.0,1
+Ostgronland,0.0,0.0,1
+Otjozondjupa,0.0,0.0,1
+Ouargla,0.0,0.0,1
+Oueme,0.0,0.0,1
+Palau,0.0,0.0,1
+Papua Barat,0.0,0.0,1
+Pastaza,0.0,0.0,1
+Potaro,0.0,0.0,1
+Pusan,0.0,0.0,1
+Putumayo,0.0,0.0,1
+Qatar,0.0,0.0,1
+Qena,0.0,0.0,1
+Quinara,0.0,0.0,1
+Racha-Lechkhumi,0.0,0.0,1
+Raymah,0.0,0.0,1
+Red Sea,0.0,0.0,2
+Rhode Island,0.0,0.0,1
+Rio De Oro,0.0,0.0,1
+River Gee,0.0,0.0,1
+Rivercess,0.0,0.0,1
+Réunion,0.0,0.0,1
+Saguia El Hamra,0.0,0.0,1
+Saint Laurent M.,0.0,0.0,1
+Saint Lucia,0.0,0.0,1
+Saint Pierre,0.0,0.0,1
+Saint Vincent,0.0,0.0,1
+Sakha Rep.,0.0,0.0,1
+Sakhalinskaya ,0.0,0.0,1
+Samburu,0.0,0.0,1
+Samoa,0.0,0.0,1
+San Juan,0.0,0.0,1
+Sanaag,0.0,0.0,1
+Sangha,0.0,0.0,1
+Sangha-Mbaéré,0.0,0.0,1
+Sankt-peterburg,0.0,0.0,1
+Sankuru,0.0,0.0,1
+Sao Tome and P.,0.0,0.0,1
+Saramacca,0.0,0.0,1
+Sawfajjin,0.0,0.0,1
+Seoul,0.0,0.0,1
+Shabelle,0.0,0.0,1
+Shabwah,0.0,0.0,1
+Shrkia,0.0,0.0,1
+Singapore,0.0,0.0,1
+Sinoe,0.0,0.0,1
+Sipaliwini,0.0,0.0,1
+Sistan B.,0.0,0.0,1
+Siti,0.0,0.0,1
+Sool,0.0,0.0,1
+South Georgia,0.0,0.0,1
+South Sinai,0.0,0.0,1
+Special Woreda,0.0,0.0,1
+Su'xbaatar,0.0,0.0,1
+Suhag,0.0,0.0,1
+Surt (sirte),0.0,0.0,1
+Tacna,0.0,0.0,1
+Tagant,0.0,0.0,1
+Tamanrasset,0.0,0.0,1
+Tana River,0.0,0.0,1
+Tarapaca,0.0,0.0,1
+Tashkent city,0.0,0.0,1
+Tataouine,0.0,0.0,1
+Taymyrskiy Okrug,0.0,0.0,1
+Tbilisi,0.0,0.0,1
+Tibesti,0.0,0.0,1
+Tierra Del Fuego,0.0,0.0,1
+Tindouf,0.0,0.0,1
+Tiris-Zemmour,0.0,0.0,1
+Togdheer,0.0,0.0,1
+Tombali,0.0,0.0,1
+Tombouctou,0.0,0.0,1
+Tonga,0.0,0.0,1
+Tozeur,0.0,0.0,1
+Trarza,0.0,0.0,1
+Trinidad Tobago,0.0,0.0,1
+Troms,0.0,0.0,1
+Tshuapa,0.0,0.0,1
+Tunis,0.0,0.0,1
+Turkana,0.0,0.0,1
+Uige,0.0,0.0,1
+Ulaanbaatar,0.0,0.0,1
+Umm AL Quwain,0.0,0.0,1
+Uvs,0.0,0.0,1
+Vakaga,0.0,0.0,1
+Vanuatu,0.0,0.0,1
+Vargas,0.0,0.0,1
+Vestgronland,0.0,0.0,1
+Vichada,0.0,0.0,1
+Virgin Islands,0.0,0.0,1
+Vorarlberg,0.0,0.0,1
+Wajir,0.0,0.0,1
+Wanica,0.0,0.0,1
+Welenzas,0.0,0.0,1
+West Area,0.0,0.0,1
+West Bahr Ghazal,0.0,0.0,1
+West New Britain,0.0,0.0,1
+West Sepik,0.0,0.0,1
+Wien,0.0,0.0,1
+Woleu-Ntem,0.0,0.0,1
+Xo'vsgol,0.0,0.0,1
+Xovd,0.0,0.0,1
+Yamalo-nenetskiy,0.0,0.0,1
+Yamoussoukro,0.0,0.0,1
+Yukon,0.0,0.0,1
+Zaire,0.0,0.0,1
+Zamora Chinchipe,0.0,0.0,1
+Zavxan,0.0,0.0,1
