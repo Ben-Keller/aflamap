@@ -36,7 +36,7 @@ for year in range(2003,2021):
 
 
 print(dfFull.head())
-dfFull.to_csv('aflaWarningsNew.csv',index = False)
+dfFull.to_csv('aflaWarnings.csv',index = False)
 
 cp = cmd.run("git add .", check=True, shell=True)
 cp = cmd.run("git commit -m Test", check=True, shell=True)
